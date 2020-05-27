@@ -1,0 +1,37 @@
+COMPND    Pisiferanol
+HETATM    1  C1  UNL     1      -0.812   0.480  -1.971  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.643  -0.999  -2.335  1.00  0.00           C  
+HETATM    3  C3  UNL     1       0.073  -1.793  -1.220  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.633  -1.554   0.154  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -1.291  -0.187   0.469  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -1.753   0.589  -0.772  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -0.495   0.682   1.451  1.00  0.00           C  
+HETATM    8  C8  UNL     1       0.978   0.817   1.175  1.00  0.00           C  
+HETATM    9  C9  UNL     1       1.827  -0.192   1.439  1.00  0.00           C  
+HETATM   10  C10 UNL     1       1.365  -1.547   1.941  1.00  0.00           C  
+HETATM   11  C11 UNL     1       0.048  -2.150   1.408  1.00  0.00           C  
+HETATM   12  C12 UNL     1       3.140   0.025   1.240  1.00  0.00           C  
+HETATM   13  C13 UNL     1       3.642   1.185   0.776  1.00  0.00           C  
+HETATM   14  C14 UNL     1       2.782   2.185   0.496  1.00  0.00           C  
+HETATM   15  C15 UNL     1       1.472   1.976   0.711  1.00  0.00           C  
+HETATM   16  O1  UNL     1       3.186   3.398   0.033  1.00  0.00           O  
+HETATM   17  C16 UNL     1       5.150   1.325   0.595  1.00  0.00           C  
+HETATM   18  C17 UNL     1       5.556   1.652  -0.851  1.00  0.00           C  
+HETATM   19  C18 UNL     1       5.748   2.324   1.599  1.00  0.00           C  
+HETATM   20  O2  UNL     1      -2.488  -0.459   1.177  1.00  0.00           O  
+HETATM   21  C19 UNL     1      -0.013  -3.297  -1.601  1.00  0.00           C  
+HETATM   22  C20 UNL     1       1.575  -1.448  -1.284  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   21   22
+CONECT    4    5   11
+CONECT    5    6    7   20
+CONECT    7    8
+CONECT    8    9   15
+CONECT    9   10   12
+CONECT   10   11
+CONECT   12   13
+CONECT   13   14   17
+CONECT   14   15   16
+CONECT   17   18   19
+END

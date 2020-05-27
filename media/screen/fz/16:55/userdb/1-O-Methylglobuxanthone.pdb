@@ -1,0 +1,41 @@
+COMPND    1-O-Methylglobuxanthone
+HETATM    1  C1  UNL     1      -0.575   4.041  -2.443  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.536   4.348  -1.141  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.451   3.383  -0.211  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.399   2.090  -0.594  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.429   1.776  -1.900  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -0.521   2.756  -2.820  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -0.358   0.470  -2.280  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -0.239  -0.517  -1.338  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -0.216  -0.167  -0.029  1.00  0.00           C  
+HETATM   10  O1  UNL     1      -0.313   1.132   0.364  1.00  0.00           O  
+HETATM   11  C10 UNL     1      -0.106  -1.121   0.924  1.00  0.00           C  
+HETATM   12  C11 UNL     1      -0.023  -2.398   0.520  1.00  0.00           C  
+HETATM   13  C12 UNL     1      -0.052  -2.762  -0.767  1.00  0.00           C  
+HETATM   14  C13 UNL     1      -0.125  -1.815  -1.722  1.00  0.00           C  
+HETATM   15  O2  UNL     1      -0.210  -2.248  -3.027  1.00  0.00           O  
+HETATM   16  C14 UNL     1       1.036  -2.401  -3.670  1.00  0.00           C  
+HETATM   17  O3  UNL     1       0.021  -4.085  -1.087  1.00  0.00           O  
+HETATM   18  C15 UNL     1      -0.088  -0.873   2.445  1.00  0.00           C  
+HETATM   19  C16 UNL     1      -1.344  -1.542   3.059  1.00  0.00           C  
+HETATM   20  C17 UNL     1      -0.086   0.581   2.969  1.00  0.00           C  
+HETATM   21  C18 UNL     1       1.174  -1.517   2.997  1.00  0.00           C  
+HETATM   22  C19 UNL     1       2.409  -1.186   2.594  1.00  0.00           C  
+HETATM   23  O4  UNL     1      -0.379   0.243  -3.471  1.00  0.00           O  
+HETATM   24  O5  UNL     1      -0.411   3.717   1.109  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   24
+CONECT    4    5   10
+CONECT    5    6    7
+CONECT    7    8   23   23
+CONECT    8    9   14
+CONECT    9   10   11
+CONECT   11   12   18
+CONECT   12   13
+CONECT   13   14   17
+CONECT   14   15
+CONECT   15   16
+CONECT   18   19   20   21
+CONECT   21   22   22
+END

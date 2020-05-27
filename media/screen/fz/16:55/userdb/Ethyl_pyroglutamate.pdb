@@ -1,0 +1,20 @@
+COMPND    Ethyl_pyroglutamate
+HETATM    1  C1  UNL     1       0.850  -1.923  -2.337  1.00  0.00           C  
+HETATM    2  C2  UNL     1       2.126  -1.292  -1.828  1.00  0.00           C  
+HETATM    3  N1  UNL     1       1.832  -0.317  -0.937  1.00  0.00           N  
+HETATM    4  C3  UNL     1       0.405  -0.109  -0.691  1.00  0.00           C  
+HETATM    5  C4  UNL     1      -0.226  -0.921  -1.852  1.00  0.00           C  
+HETATM    6  C5  UNL     1       0.017  -0.677   0.676  1.00  0.00           C  
+HETATM    7  O1  UNL     1      -0.565   0.153   1.587  1.00  0.00           O  
+HETATM    8  C6  UNL     1      -0.905   1.480   1.291  1.00  0.00           C  
+HETATM    9  C7  UNL     1      -1.602   2.088   2.506  1.00  0.00           C  
+HETATM   10  O2  UNL     1       0.249  -1.841   0.929  1.00  0.00           O  
+HETATM   11  O3  UNL     1       3.257  -1.581  -2.129  1.00  0.00           O  
+CONECT    1    2    5
+CONECT    2    3   11   11
+CONECT    3    4
+CONECT    4    5    6
+CONECT    6    7   10   10
+CONECT    7    8
+CONECT    8    9
+END

@@ -1,0 +1,17 @@
+COMPND    1,4-Dideoxy-1,4-imino-arabinitol
+HETATM    1  C1  UNL     1      -0.092  -0.920  -0.249  1.00  0.00           C  
+HETATM    2  C2  UNL     1       1.431  -0.920  -0.249  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.799   0.466   0.265  1.00  0.00           C  
+HETATM    4  N1  UNL     1       0.581   1.176   0.526  1.00  0.00           N  
+HETATM    5  C4  UNL     1      -0.461   0.558  -0.249  1.00  0.00           C  
+HETATM    6  C5  UNL     1      -1.821   0.776   0.401  1.00  0.00           C  
+HETATM    7  O1  UNL     1      -2.675   1.419  -0.505  1.00  0.00           O  
+HETATM    8  O2  UNL     1       1.929  -1.915   0.604  1.00  0.00           O  
+HETATM    9  O3  UNL     1      -0.590  -1.557  -1.394  1.00  0.00           O  
+CONECT    1    2    5    9
+CONECT    2    3    8
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+END

@@ -1,0 +1,13 @@
+REMARK  7 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C22_25 
+REMARK    2  A    between atoms: C13_15  and  C16_19 
+REMARK    3  A    between atoms: C14_16  and  C15_17 
+REMARK    4  A    between atoms: C16_19  and  C17_20 
+REMARK    5  A    between atoms: C16_19  and  C19_22 
+REMARK    6  A    between atoms: C33_38  and  C40_45 
+REMARK    7  A    between atoms: C35_40  and  C36_41 
+ROOT
+HETATM    1 CL1  UNL     1       5.596  -1.716   3.812  1.00  0.00     0.000 Cl
+ENDROOT
+TORSDOF 7

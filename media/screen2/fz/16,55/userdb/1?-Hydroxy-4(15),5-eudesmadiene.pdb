@@ -1,0 +1,28 @@
+COMPND    1?-Hydroxy-4(15),5-eudesmadiene
+HETATM    1  C1  UNL     1      -1.116   3.265  -1.455  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.144   3.415   0.071  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.654   2.157   0.744  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -1.133   0.856   0.215  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -1.219   0.693  -1.290  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -1.812   1.979  -1.899  1.00  0.00           C  
+HETATM    7  O1  UNL     1      -1.776   1.910  -3.306  1.00  0.00           O  
+HETATM    8  C7  UNL     1      -2.124  -0.506  -1.644  1.00  0.00           C  
+HETATM    9  C8  UNL     1      -1.807  -1.752  -0.808  1.00  0.00           C  
+HETATM   10  C9  UNL     1      -2.029  -1.482   0.690  1.00  0.00           C  
+HETATM   11  C10 UNL     1      -1.480  -0.126   1.071  1.00  0.00           C  
+HETATM   12  C11 UNL     1      -1.472  -2.618   1.586  1.00  0.00           C  
+HETATM   13  C12 UNL     1      -1.986  -4.005   1.155  1.00  0.00           C  
+HETATM   14  C13 UNL     1      -1.812  -2.426   3.078  1.00  0.00           C  
+HETATM   15  C14 UNL     1       0.217   0.445  -1.803  1.00  0.00           C  
+HETATM   16  C15 UNL     1       0.217   2.211   1.770  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   16   16
+CONECT    4    5   11   11
+CONECT    5    6    8   15
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   12
+CONECT   12   13   14
+END

@@ -1,0 +1,31 @@
+COMPND    Isovaleroyloxylinalool
+HETATM    1  C1  UNL     1      -1.306   3.858  -1.232  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.627   3.218  -0.769  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -2.704   1.681  -0.806  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -1.871   1.024   0.264  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.901   0.104   0.107  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -0.125  -0.410   1.303  1.00  0.00           C  
+HETATM    7  O1  UNL     1      -0.272  -1.809   1.422  1.00  0.00           O  
+HETATM    8  C7  UNL     1       0.533  -2.430   2.325  1.00  0.00           C  
+HETATM    9  C8  UNL     1       0.312  -3.932   2.303  1.00  0.00           C  
+HETATM   10  C9  UNL     1       0.344  -4.571   0.901  1.00  0.00           C  
+HETATM   11  C10 UNL     1       1.641  -4.227   0.148  1.00  0.00           C  
+HETATM   12  C11 UNL     1       0.181  -6.097   1.006  1.00  0.00           C  
+HETATM   13  O2  UNL     1       1.320  -1.864   3.051  1.00  0.00           O  
+HETATM   14  C12 UNL     1      -0.455  -0.471  -1.217  1.00  0.00           C  
+HETATM   15  C13 UNL     1      -1.466   5.364  -1.332  1.00  0.00           C  
+HETATM   16  C14 UNL     1      -0.586   6.172  -1.940  1.00  0.00           C  
+HETATM   17  C15 UNL     1      -0.129   3.555  -0.302  1.00  0.00           C  
+HETATM   18  O3  UNL     1      -0.999   3.358  -2.516  1.00  0.00           O  
+CONECT    1    2   15   17   18
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    5
+CONECT    5    6   14
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   13   13
+CONECT    9   10
+CONECT   10   11   12
+CONECT   15   16   16
+END

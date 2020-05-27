@@ -1,0 +1,17 @@
+COMPND    E,E)-2,4-Heptadienal
+HETATM    1  C1  UNL     1      -2.672  -3.009   0.000  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.348  -2.233  -0.000  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.559  -0.741   0.000  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.542   0.145   0.000  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.776   1.592   0.000  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.245   2.480   0.000  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.019   3.942   0.000  1.00  0.00           C  
+HETATM    8  O1  UNL     1       0.941   4.746   0.000  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    4
+CONECT    4    5
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8    8
+END

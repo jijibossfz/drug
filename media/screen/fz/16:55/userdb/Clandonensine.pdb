@@ -1,0 +1,33 @@
+COMPND    Clandonensine
+HETATM    1  C1  UNL     1       0.086   1.473  -0.305  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.092  -0.045  -0.356  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.074  -0.499   0.718  1.00  0.00           C  
+HETATM    4  O1  UNL     1      -2.302   0.197   0.660  1.00  0.00           O  
+HETATM    5  C4  UNL     1      -2.193   1.586   0.828  1.00  0.00           C  
+HETATM    6  C5  UNL     1      -1.230   2.221  -0.147  1.00  0.00           C  
+HETATM    7  O2  UNL     1      -1.818   1.779   2.176  1.00  0.00           O  
+HETATM    8  O3  UNL     1      -1.471  -1.825   0.423  1.00  0.00           O  
+HETATM    9  C6  UNL     1      -2.024  -2.506   1.527  1.00  0.00           C  
+HETATM   10  C7  UNL     1       1.344  -0.616  -0.202  1.00  0.00           C  
+HETATM   11  C8  UNL     1       2.074   0.505   0.601  1.00  0.00           C  
+HETATM   12  C9  UNL     1       1.084   1.646   0.820  1.00  0.00           C  
+HETATM   13  O4  UNL     1       1.711   2.902   0.737  1.00  0.00           O  
+HETATM   14  C10 UNL     1       1.535  -1.912   0.600  1.00  0.00           C  
+HETATM   15  O5  UNL     1       2.019  -0.650  -1.429  1.00  0.00           O  
+HETATM   16  C11 UNL     1       1.981  -1.596  -2.409  1.00  0.00           C  
+HETATM   17  O6  UNL     1       2.646  -1.480  -3.418  1.00  0.00           O  
+HETATM   18  C12 UNL     1       1.120  -2.833  -2.230  1.00  0.00           C  
+HETATM   19  O7  UNL     1      -0.677  -0.397  -1.583  1.00  0.00           O  
+HETATM   20  O8  UNL     1       0.709   1.939  -1.479  1.00  0.00           O  
+CONECT    1    2    6   12   20
+CONECT    2    3   10   19
+CONECT    3    4    8
+CONECT    4    5
+CONECT    5    6    7
+CONECT    8    9
+CONECT   10   11   14   15
+CONECT   11   12
+CONECT   12   13
+CONECT   15   16
+CONECT   16   17   17   18
+END

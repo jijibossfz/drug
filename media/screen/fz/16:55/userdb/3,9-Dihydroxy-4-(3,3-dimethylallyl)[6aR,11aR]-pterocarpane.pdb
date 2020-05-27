@@ -1,0 +1,45 @@
+COMPND    3,9-Dihydroxy-4-(3,3-dimethylallyl)[6aR,11aR]-pterocarpane
+HETATM    1  C1  UNL     1       1.319  -0.020   0.365  1.00  0.00           C  
+HETATM    2  C2  UNL     1       1.295   1.371   0.241  1.00  0.00           C  
+HETATM    3  C3  UNL     1       2.430   2.074  -0.152  1.00  0.00           C  
+HETATM    4  C4  UNL     1       3.620   1.396  -0.422  1.00  0.00           C  
+HETATM    5  C5  UNL     1       3.667  -0.006  -0.343  1.00  0.00           C  
+HETATM    6  C6  UNL     1       2.513  -0.700   0.071  1.00  0.00           C  
+HETATM    7  C7  UNL     1       2.552  -2.211   0.228  1.00  0.00           C  
+HETATM    8  C8  UNL     1       1.471  -2.885  -0.578  1.00  0.00           C  
+HETATM    9  C9  UNL     1       0.760  -3.966  -0.212  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -0.323  -4.527  -1.106  1.00  0.00           C  
+HETATM   11  C11 UNL     1       0.956  -4.731   1.075  1.00  0.00           C  
+HETATM   12  O1  UNL     1       4.838  -0.683  -0.560  1.00  0.00           O  
+HETATM   13  C12 UNL     1       6.001   0.028  -0.240  1.00  0.00           C  
+HETATM   14  C13 UNL     1       6.086   1.306  -1.061  1.00  0.00           C  
+HETATM   15  C14 UNL     1       4.833   2.186  -0.844  1.00  0.00           C  
+HETATM   16  O2  UNL     1       5.189   3.210   0.089  1.00  0.00           O  
+HETATM   17  C15 UNL     1       6.565   3.271   0.177  1.00  0.00           C  
+HETATM   18  C16 UNL     1       7.148   2.209  -0.504  1.00  0.00           C  
+HETATM   19  C17 UNL     1       8.532   2.066  -0.531  1.00  0.00           C  
+HETATM   20  C18 UNL     1       9.305   3.022   0.136  1.00  0.00           C  
+HETATM   21  C19 UNL     1       8.732   4.102   0.825  1.00  0.00           C  
+HETATM   22  C20 UNL     1       7.336   4.223   0.844  1.00  0.00           C  
+HETATM   23  O3  UNL     1       9.521   5.000   1.472  1.00  0.00           O  
+HETATM   24  O4  UNL     1       0.206  -0.678   0.788  1.00  0.00           O  
+CONECT    1    2    6   24
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5   15
+CONECT    5    6   12
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9    9
+CONECT    9   10   11
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   18
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18   22
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22   23
+END

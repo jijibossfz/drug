@@ -1,0 +1,36 @@
+COMPND    E)-3-(3-Hydroxymethyl-2-butenyl)-7-(3-methyl-2-butenyl)-1H-indole
+HETATM    1  C1  UNL     1       4.311   1.969  -0.888  1.00  0.00           C  
+HETATM    2  C2  UNL     1       5.140   0.820  -0.858  1.00  0.00           C  
+HETATM    3  C3  UNL     1       4.681  -0.425  -0.466  1.00  0.00           C  
+HETATM    4  C4  UNL     1       3.305  -0.481  -0.086  1.00  0.00           C  
+HETATM    5  C5  UNL     1       2.455   0.647  -0.103  1.00  0.00           C  
+HETATM    6  C6  UNL     1       2.988   1.896  -0.521  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.147   0.248   0.338  1.00  0.00           C  
+HETATM    8  C8  UNL     1       1.242  -1.096   0.603  1.00  0.00           C  
+HETATM    9  N1  UNL     1       2.522  -1.529   0.352  1.00  0.00           N  
+HETATM   10  C9  UNL     1      -0.163   0.971   0.539  1.00  0.00           C  
+HETATM   11  C10 UNL     1      -0.313   2.443   0.273  1.00  0.00           C  
+HETATM   12  C11 UNL     1      -1.460   3.132   0.418  1.00  0.00           C  
+HETATM   13  C12 UNL     1      -2.735   2.470   0.881  1.00  0.00           C  
+HETATM   14  C13 UNL     1      -1.565   4.614   0.135  1.00  0.00           C  
+HETATM   15  O1  UNL     1      -0.351   5.204  -0.314  1.00  0.00           O  
+HETATM   16  C14 UNL     1       5.698  -1.548  -0.494  1.00  0.00           C  
+HETATM   17  C15 UNL     1       5.379  -2.967  -0.106  1.00  0.00           C  
+HETATM   18  C16 UNL     1       6.285  -3.962  -0.136  1.00  0.00           C  
+HETATM   19  C17 UNL     1       5.933  -5.376   0.261  1.00  0.00           C  
+HETATM   20  C18 UNL     1       7.715  -3.737  -0.566  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   16
+CONECT    4    5    9
+CONECT    5    6    7
+CONECT    7    8   10
+CONECT    8    9
+CONECT   10   11
+CONECT   11   12   12
+CONECT   12   13   14
+CONECT   14   15
+CONECT   16   17
+CONECT   17   18   18
+CONECT   18   19   20
+END

@@ -1,0 +1,32 @@
+COMPND    Cedrecoumarin_A
+HETATM    1  C1  UNL     1      -3.525  -0.512   0.415  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -3.524  -1.914   0.416  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -2.307  -2.596   0.419  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -1.063  -1.959   0.399  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -1.067  -0.552   0.351  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -2.289   0.156   0.340  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -2.362   1.622   0.337  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -3.543   2.209   0.078  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -4.759   1.383  -0.263  1.00  0.00           C  
+HETATM   10  O1  UNL     1      -4.726   0.148   0.400  1.00  0.00           O  
+HETATM   11  C10 UNL     1      -6.034   2.107   0.183  1.00  0.00           C  
+HETATM   12  C11 UNL     1      -4.802   1.138  -1.776  1.00  0.00           C  
+HETATM   13  C12 UNL     1       0.234   0.117   0.290  1.00  0.00           C  
+HETATM   14  C13 UNL     1       1.369  -0.615   0.318  1.00  0.00           C  
+HETATM   15  C14 UNL     1       1.267  -2.086   0.400  1.00  0.00           C  
+HETATM   16  O2  UNL     1       0.068  -2.728   0.411  1.00  0.00           O  
+HETATM   17  O3  UNL     1       2.312  -2.733   0.448  1.00  0.00           O  
+HETATM   18  O4  UNL     1      -4.690  -2.615   0.439  1.00  0.00           O  
+CONECT    1    2    6   10
+CONECT    2    3   18
+CONECT    3    4
+CONECT    4    5   16
+CONECT    5    6   13
+CONECT    6    7
+CONECT    7    8    8
+CONECT    8    9
+CONECT    9   10   11   12
+CONECT   13   14   14
+CONECT   14   15
+CONECT   15   16   17   17
+END

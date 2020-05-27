@@ -1,0 +1,19 @@
+COMPND    erythro-2-Hydroxy-2-(1-hydroxyethyl)-4-methylpentanoic_acid
+HETATM    1  C1  UNL     1      -1.391   1.642   0.069  1.00  0.00           C  
+HETATM    2  O1  UNL     1      -2.240   1.209   1.020  1.00  0.00           O  
+HETATM    3  C2  UNL     1      -0.006   0.983   0.158  1.00  0.00           C  
+HETATM    4  C3  UNL     1      -0.176  -0.542   0.286  1.00  0.00           C  
+HETATM    5  C4  UNL     1       1.066  -1.459   0.307  1.00  0.00           C  
+HETATM    6  C5  UNL     1       1.975  -1.238   1.528  1.00  0.00           C  
+HETATM    7  C6  UNL     1       0.615  -2.934   0.284  1.00  0.00           C  
+HETATM    8  C7  UNL     1       0.842   1.468  -1.021  1.00  0.00           C  
+HETATM    9  O2  UNL     1       2.200   1.224  -0.741  1.00  0.00           O  
+HETATM   10  C8  UNL     1       0.491   0.862  -2.377  1.00  0.00           C  
+HETATM   11  O3  UNL     1       0.616   1.481   1.324  1.00  0.00           O  
+HETATM   12  O4  UNL     1      -1.734   2.496  -0.714  1.00  0.00           O  
+CONECT    1    2    3   12   12
+CONECT    3    4    8   11
+CONECT    4    5
+CONECT    5    6    7
+CONECT    8    9   10
+END

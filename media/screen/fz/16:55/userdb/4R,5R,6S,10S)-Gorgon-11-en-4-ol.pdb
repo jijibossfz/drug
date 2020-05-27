@@ -1,0 +1,28 @@
+COMPND    4R,5R,6S,10S)-Gorgon-11-en-4-ol
+HETATM    1  C1  UNL     1      -1.477   1.049  -2.348  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.314   0.302  -1.308  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.435  -0.577  -0.403  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.005  -0.021  -0.261  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.077   1.532  -0.322  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -0.521   2.040  -1.666  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.560   1.985  -0.266  1.00  0.00           C  
+HETATM    8  C8  UNL     1       2.308   1.452   0.961  1.00  0.00           C  
+HETATM    9  C9  UNL     1       2.280  -0.079   0.951  1.00  0.00           C  
+HETATM   10  C10 UNL     1       0.844  -0.635   0.889  1.00  0.00           C  
+HETATM   11  C11 UNL     1       0.944  -2.155   0.869  1.00  0.00           C  
+HETATM   12  C12 UNL     1       0.602  -2.895   1.936  1.00  0.00           C  
+HETATM   13  C13 UNL     1       1.525  -2.844  -0.344  1.00  0.00           C  
+HETATM   14  C14 UNL     1      -0.667   2.218   0.848  1.00  0.00           C  
+HETATM   15  O1  UNL     1      -1.343  -1.827  -1.043  1.00  0.00           O  
+HETATM   16  C15 UNL     1      -2.176  -0.835   0.914  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   15   16
+CONECT    4    5   10
+CONECT    5    6    7   14
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   12   13
+END

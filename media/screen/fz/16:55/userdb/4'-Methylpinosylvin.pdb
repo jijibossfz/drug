@@ -1,0 +1,31 @@
+COMPND    4'-Methylpinosylvin
+HETATM    1  C1  UNL     1       1.804  -2.545  -1.266  1.00  0.00           C  
+HETATM    2  C2  UNL     1       2.031  -3.811  -0.890  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.084  -4.467  -0.206  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.064  -3.849   0.117  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.294  -2.558  -0.202  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.652  -1.939  -0.935  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -1.480  -2.003   0.127  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -1.916  -0.729   0.093  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -1.257   0.447   0.156  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -1.911   1.594  -0.107  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -1.326   2.802  -0.039  1.00  0.00           C  
+HETATM   12  C12 UNL     1      -0.034   2.883   0.336  1.00  0.00           C  
+HETATM   13  C13 UNL     1       0.644   1.762   0.651  1.00  0.00           C  
+HETATM   14  C14 UNL     1       0.015   0.577   0.569  1.00  0.00           C  
+HETATM   15  O1  UNL     1       1.940   1.797   1.069  1.00  0.00           O  
+HETATM   16  C15 UNL     1       0.638   4.237   0.430  1.00  0.00           C  
+HETATM   17  O2  UNL     1      -2.039   3.919  -0.354  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    7
+CONECT    7    8    8
+CONECT    8    9
+CONECT    9   10   14
+CONECT   10   11
+CONECT   11   12   17
+CONECT   12   13   16
+CONECT   13   14   15
+END

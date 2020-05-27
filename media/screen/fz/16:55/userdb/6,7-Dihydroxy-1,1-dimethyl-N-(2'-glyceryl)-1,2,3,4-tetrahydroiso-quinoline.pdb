@@ -1,0 +1,33 @@
+COMPND    6,7-Dihydroxy-1,1-dimethyl-N-(2'-glyceryl)-1,2,3,4-tetrahydroiso-quinoline
+HETATM    1  C1  UNL     1       0.302   1.368   0.101  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.142  -0.019   0.010  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.244  -0.842   0.256  1.00  0.00           C  
+HETATM    4  C4  UNL     1       2.508  -0.341   0.586  1.00  0.00           C  
+HETATM    5  C5  UNL     1       2.652   1.046   0.713  1.00  0.00           C  
+HETATM    6  C6  UNL     1       1.554   1.872   0.457  1.00  0.00           C  
+HETATM    7  C7  UNL     1       3.977   1.675   1.057  1.00  0.00           C  
+HETATM    8  C8  UNL     1       5.133   0.673   1.160  1.00  0.00           C  
+HETATM    9  N1  UNL     1       4.962  -0.560   0.402  1.00  0.00           N  
+HETATM   10  C9  UNL     1       3.713  -1.244   0.788  1.00  0.00           C  
+HETATM   11  C10 UNL     1       3.705  -1.591   2.303  1.00  0.00           C  
+HETATM   12  C11 UNL     1       3.600  -2.616   0.073  1.00  0.00           C  
+HETATM   13  C12 UNL     1       5.231  -0.435  -1.043  1.00  0.00           C  
+HETATM   14  C13 UNL     1       4.316   0.426  -1.929  1.00  0.00           C  
+HETATM   15  O1  UNL     1       3.011  -0.099  -2.061  1.00  0.00           O  
+HETATM   16  C14 UNL     1       6.703  -0.051  -1.300  1.00  0.00           C  
+HETATM   17  O2  UNL     1       6.876   1.350  -1.373  1.00  0.00           O  
+HETATM   18  O3  UNL     1      -1.059  -0.564  -0.319  1.00  0.00           O  
+HETATM   19  O4  UNL     1      -0.738   2.212  -0.130  1.00  0.00           O  
+CONECT    1    2    6   19
+CONECT    2    3   18
+CONECT    3    4
+CONECT    4    5   10
+CONECT    5    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   13
+CONECT   10   11   12
+CONECT   13   14   16
+CONECT   14   15
+CONECT   16   17
+END

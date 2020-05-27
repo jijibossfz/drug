@@ -1,0 +1,27 @@
+COMPND    Epoxycyperene
+HETATM    1  C1  UNL     1       1.816   0.619  -0.341  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.279   0.397  -0.436  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.062  -1.075  -0.264  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.210  -1.441   1.197  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.021  -0.067   1.881  1.00  0.00           C  
+HETATM    6  C6  UNL     1       1.511   0.139   2.201  1.00  0.00           C  
+HETATM    7  C7  UNL     1       2.396   0.001   0.954  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -0.451   0.971   0.824  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -0.103   2.438   1.157  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -2.000   0.941   0.758  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -1.059  -1.493  -1.267  1.00  0.00           C  
+HETATM   12  C12 UNL     1      -1.357  -0.301  -2.159  1.00  0.00           C  
+HETATM   13  C13 UNL     1      -0.355   0.811  -1.782  1.00  0.00           C  
+HETATM   14  C14 UNL     1      -2.100  -2.572  -1.058  1.00  0.00           C  
+HETATM   15  O1  UNL     1       0.279  -2.020  -1.285  1.00  0.00           O  
+HETATM   16  C15 UNL     1       2.671   0.093  -1.515  1.00  0.00           C  
+CONECT    1    2    7   16
+CONECT    2    3    8   13
+CONECT    3    4   11   15
+CONECT    4    5
+CONECT    5    6    8
+CONECT    6    7
+CONECT    8    9   10
+CONECT   11   12   14   15
+CONECT   12   13
+END

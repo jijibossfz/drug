@@ -1,0 +1,42 @@
+COMPND    12b-Hydroxy-des-D-ring-garcigerrin_A
+HETATM    1  C1  UNL     1       2.176  -0.044   0.166  1.00  0.00           C  
+HETATM    2  C2  UNL     1       2.272   1.479   0.294  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.935   5.280  -1.385  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -1.187   5.531  -0.037  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -1.480   4.490   0.850  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -1.519   3.168   0.386  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -1.261   2.923  -0.970  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -0.968   3.968  -1.856  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -1.273   1.522  -1.456  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -1.340   0.466  -0.408  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -1.608   0.886   0.908  1.00  0.00           C  
+HETATM   12  O1  UNL     1      -1.841   2.182   1.266  1.00  0.00           O  
+HETATM   13  C12 UNL     1      -1.662  -0.084   1.913  1.00  0.00           C  
+HETATM   14  C13 UNL     1      -1.456  -1.424   1.584  1.00  0.00           C  
+HETATM   15  C14 UNL     1      -1.201  -1.858   0.280  1.00  0.00           C  
+HETATM   16  C15 UNL     1      -1.119  -0.886  -0.736  1.00  0.00           C  
+HETATM   17  O2  UNL     1      -0.767  -1.265  -1.997  1.00  0.00           O  
+HETATM   18  C16 UNL     1      -0.926  -3.338  -0.010  1.00  0.00           C  
+HETATM   19  C17 UNL     1      -1.552  -3.751  -1.331  1.00  0.00           C  
+HETATM   20  C18 UNL     1      -2.847  -3.579  -1.632  1.00  0.00           C  
+HETATM   21  C19 UNL     1       0.605  -3.532  -0.051  1.00  0.00           C  
+HETATM   22  C20 UNL     1      -1.502  -4.312   1.043  1.00  0.00           C  
+HETATM   23  O3  UNL     1      -1.907   0.271   3.203  1.00  0.00           O  
+HETATM   24  O4  UNL     1      -1.201   1.280  -2.657  1.00  0.00           O  
+HETATM   25  O5  UNL     1      -1.731   4.735   2.164  1.00  0.00           O  
+CONECT    1    2
+CONECT    3    4    8
+CONECT    4    5
+CONECT    5    6   25
+CONECT    6    7   12
+CONECT    7    8    9
+CONECT    9   10   24   24
+CONECT   10   11   16
+CONECT   11   12   13
+CONECT   13   14   23
+CONECT   14   15
+CONECT   15   16   18
+CONECT   16   17
+CONECT   18   19   21   22
+CONECT   19   20   20
+END

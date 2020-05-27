@@ -1,0 +1,27 @@
+COMPND    3-(3,4-Dihydroxyphenyl)-2-propen-1-ethanoate
+HETATM    1  C1  UNL     1       0.540  -0.290   0.098  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.171  -0.081   1.541  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.093   0.414   2.388  1.00  0.00           C  
+HETATM    4  C4  UNL     1       2.464   0.710   1.965  1.00  0.00           C  
+HETATM    5  C5  UNL     1       2.924   0.147   0.816  1.00  0.00           C  
+HETATM    6  C6  UNL     1       2.005  -0.724  -0.012  1.00  0.00           C  
+HETATM    7  C7  UNL     1       4.321   0.369   0.400  1.00  0.00           C  
+HETATM    8  C8  UNL     1       4.988  -0.446  -0.441  1.00  0.00           C  
+HETATM    9  C9  UNL     1       6.424  -0.236  -0.863  1.00  0.00           C  
+HETATM   10  O1  UNL     1       6.519  -0.323  -2.269  1.00  0.00           O  
+HETATM   11  C10 UNL     1       7.711  -0.173  -2.916  1.00  0.00           C  
+HETATM   12  O2  UNL     1       7.800  -0.228  -4.125  1.00  0.00           O  
+HETATM   13  C11 UNL     1       8.931   0.057  -2.041  1.00  0.00           C  
+HETATM   14  O3  UNL     1       3.279   1.414   2.796  1.00  0.00           O  
+HETATM   15  O4  UNL     1      -1.109  -0.327   1.923  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3    3   15
+CONECT    3    4
+CONECT    4    5    5   14
+CONECT    5    6    7
+CONECT    7    8    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   12   13
+END

@@ -1,0 +1,18 @@
+COMPND    5-(Hydroxymethyl)-furan-2-carboxylic_acid
+HETATM    1  C1  UNL     1      -0.611   0.969   0.737  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.829   1.073   0.116  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.998  -0.139  -0.619  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.877  -0.891  -0.398  1.00  0.00           C  
+HETATM    5  O1  UNL     1      -0.025  -0.230   0.434  1.00  0.00           O  
+HETATM    6  C5  UNL     1      -0.596  -2.249  -0.968  1.00  0.00           C  
+HETATM    7  O2  UNL     1       0.247  -2.142  -2.107  1.00  0.00           O  
+HETATM    8  C6  UNL     1      -0.048   2.031   1.602  1.00  0.00           C  
+HETATM    9  O3  UNL     1      -0.703   3.184   1.848  1.00  0.00           O  
+HETATM   10  O4  UNL     1       1.049   1.891   2.131  1.00  0.00           O  
+CONECT    1    2    2    5    8
+CONECT    2    3
+CONECT    3    4    4
+CONECT    4    5    6
+CONECT    6    7
+CONECT    8    9   10   10
+END

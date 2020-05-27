@@ -1,0 +1,23 @@
+COMPND    4R)-4-Hydroxy-?-tetralone
+HETATM    1  C1  UNL     1      -2.246   0.811  -0.334  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.200  -0.579  -0.432  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.976  -1.244  -0.320  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.213  -0.540  -0.111  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.159   0.860  -0.002  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -1.068   1.529  -0.118  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.393   1.647   0.246  1.00  0.00           C  
+HETATM    8  C8  UNL     1       2.709   0.899   0.360  1.00  0.00           C  
+HETATM    9  C9  UNL     1       2.700  -0.427  -0.405  1.00  0.00           C  
+HETATM   10  C10 UNL     1       1.516  -1.293   0.008  1.00  0.00           C  
+HETATM   11  O1  UNL     1       1.691  -1.731   1.343  1.00  0.00           O  
+HETATM   12  O2  UNL     1       1.375   2.867   0.365  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5   10
+CONECT    5    6    7
+CONECT    7    8   12   12
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+END

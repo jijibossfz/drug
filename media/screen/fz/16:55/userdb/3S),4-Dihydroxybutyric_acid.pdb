@@ -1,0 +1,15 @@
+COMPND    3S),4-Dihydroxybutyric_acid
+HETATM    1  O1  UNL     1      -0.533   2.864   0.497  1.00  0.00           O  
+HETATM    2  C1  UNL     1      -0.533   1.656   0.497  1.00  0.00           C  
+HETATM    3  O2  UNL     1      -1.692   0.987   0.497  1.00  0.00           O  
+HETATM    4  C2  UNL     1       0.773   0.901   0.497  1.00  0.00           C  
+HETATM    5  C3  UNL     1       0.496  -0.596   0.497  1.00  0.00           C  
+HETATM    6  C4  UNL     1      -0.303  -0.965  -0.747  1.00  0.00           C  
+HETATM    7  O3  UNL     1      -0.538   0.186  -1.511  1.00  0.00           O  
+HETATM    8  O4  UNL     1       1.711  -1.296   0.496  1.00  0.00           O  
+CONECT    1    2    2
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6    8
+CONECT    6    7
+END

@@ -1,0 +1,31 @@
+COMPND    ZINC03947158
+HETATM    1  C1  UNL     1       4.676   5.459   0.187  1.00  0.00           C  
+HETATM    2  C2  UNL     1       4.677   3.952   0.170  1.00  0.00           C  
+HETATM    3  C3  UNL     1       5.870   3.260   0.246  1.00  0.00           C  
+HETATM    4  C4  UNL     1       5.871   1.877   0.232  1.00  0.00           C  
+HETATM    5  C5  UNL     1       4.679   1.182   0.141  1.00  0.00           C  
+HETATM    6  C6  UNL     1       3.482   1.868   0.069  1.00  0.00           C  
+HETATM    7  C7  UNL     1       3.478   3.257   0.078  1.00  0.00           C  
+HETATM    8  N1  UNL     1       2.268   3.954   0.001  1.00  0.00           N  
+HETATM    9  C8  UNL     1       1.169   3.362  -0.578  1.00  0.00           C  
+HETATM   10  C9  UNL     1      -0.092   4.004  -0.554  1.00  0.00           C  
+HETATM   11  N2  UNL     1      -1.119   3.421  -1.110  1.00  0.00           N  
+HETATM   12  N3  UNL     1      -0.998   2.276  -1.684  1.00  0.00           N  
+HETATM   13  C10 UNL     1       0.183   1.633  -1.722  1.00  0.00           C  
+HETATM   14  O1  UNL     1       0.262   0.545  -2.269  1.00  0.00           O  
+HETATM   15  N4  UNL     1       1.270   2.178  -1.170  1.00  0.00           N  
+HETATM   16  C11 UNL     1      -0.249   5.348   0.109  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    7    7
+CONECT    3    4    4
+CONECT    4    5
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   15   15
+CONECT   10   11   11   16
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   14   15
+END

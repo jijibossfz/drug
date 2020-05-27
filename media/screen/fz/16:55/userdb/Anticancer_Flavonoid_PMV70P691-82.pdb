@@ -1,0 +1,48 @@
+COMPND    Anticancer_Flavonoid_PMV70P691-82
+HETATM    1  C1  UNL     1      -2.333  -1.009   0.021  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.245  -2.309  -0.299  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.087  -2.967  -0.475  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.049  -2.232  -0.441  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.010  -0.901  -0.185  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -1.184  -0.303   0.037  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -1.268   1.194   0.314  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -2.033   1.928  -0.760  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -2.564   3.158  -0.640  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -3.332   3.797  -1.773  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -2.450   4.010   0.602  1.00  0.00           C  
+HETATM   12  O1  UNL     1       1.141  -0.128  -0.099  1.00  0.00           O  
+HETATM   13  C12 UNL     1       2.306  -0.796   0.295  1.00  0.00           C  
+HETATM   14  C13 UNL     1       2.510  -1.967  -0.648  1.00  0.00           C  
+HETATM   15  C14 UNL     1       1.256  -2.825  -0.679  1.00  0.00           C  
+HETATM   16  O2  UNL     1       1.434  -4.001  -0.912  1.00  0.00           O  
+HETATM   17  C15 UNL     1       3.493   0.151   0.309  1.00  0.00           C  
+HETATM   18  C16 UNL     1       4.279   0.262   1.396  1.00  0.00           C  
+HETATM   19  C17 UNL     1       5.326   1.101   1.412  1.00  0.00           C  
+HETATM   20  C18 UNL     1       5.605   1.845   0.331  1.00  0.00           C  
+HETATM   21  C19 UNL     1       4.834   1.743  -0.761  1.00  0.00           C  
+HETATM   22  C20 UNL     1       3.788   0.902  -0.767  1.00  0.00           C  
+HETATM   23  O3  UNL     1      -1.147  -4.295  -0.828  1.00  0.00           O  
+HETATM   24  C21 UNL     1      -1.174  -5.178   0.272  1.00  0.00           C  
+HETATM   25  O4  UNL     1      -3.561  -0.414   0.178  1.00  0.00           O  
+HETATM   26  C22 UNL     1      -4.171  -0.675   1.422  1.00  0.00           C  
+CONECT    1    2    6   25
+CONECT    2    3
+CONECT    3    4   23
+CONECT    4    5   15
+CONECT    5    6   12
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9    9
+CONECT    9   10   11
+CONECT   12   13
+CONECT   13   14   17
+CONECT   14   15
+CONECT   15   16   16
+CONECT   17   18   22
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   23   24
+CONECT   25   26
+END

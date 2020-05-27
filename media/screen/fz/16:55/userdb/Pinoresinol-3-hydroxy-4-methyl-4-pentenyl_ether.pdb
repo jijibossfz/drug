@@ -1,0 +1,61 @@
+COMPND    Pinoresinol-3-hydroxy-4-methyl-4-pentenyl_ether
+HETATM    1  C1  UNL     1       2.889  -4.393   0.894  1.00  0.00           C  
+HETATM    2  C2  UNL     1       3.006  -3.068   0.666  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.903  -2.373   0.326  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.733  -3.013   0.212  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.638  -4.328   0.432  1.00  0.00           C  
+HETATM    6  C6  UNL     1       1.716  -5.041   0.779  1.00  0.00           C  
+HETATM    7  O1  UNL     1      -0.513  -4.727   0.279  1.00  0.00           O  
+HETATM    8  C7  UNL     1      -1.310  -3.598  -0.081  1.00  0.00           C  
+HETATM    9  O2  UNL     1      -0.357  -2.533  -0.087  1.00  0.00           O  
+HETATM   10  C8  UNL     1       4.354  -2.385   0.819  1.00  0.00           C  
+HETATM   11  O3  UNL     1       5.431  -3.227   0.418  1.00  0.00           O  
+HETATM   12  C9  UNL     1       6.432  -2.447  -0.214  1.00  0.00           C  
+HETATM   13  C10 UNL     1       6.089  -1.020   0.154  1.00  0.00           C  
+HETATM   14  C11 UNL     1       4.572  -1.131  -0.007  1.00  0.00           C  
+HETATM   15  C12 UNL     1       4.234   0.298   0.360  1.00  0.00           C  
+HETATM   16  O4  UNL     1       5.230   1.076  -0.281  1.00  0.00           O  
+HETATM   17  C13 UNL     1       6.309   0.235  -0.670  1.00  0.00           C  
+HETATM   18  C14 UNL     1       7.674   0.869  -0.478  1.00  0.00           C  
+HETATM   19  C15 UNL     1       8.796   0.154  -0.658  1.00  0.00           C  
+HETATM   20  C16 UNL     1      10.045   0.636  -0.491  1.00  0.00           C  
+HETATM   21  C17 UNL     1      10.194   1.954  -0.199  1.00  0.00           C  
+HETATM   22  C18 UNL     1       9.064   2.671  -0.032  1.00  0.00           C  
+HETATM   23  C19 UNL     1       7.832   2.160  -0.154  1.00  0.00           C  
+HETATM   24  O5  UNL     1      11.366   2.666  -0.060  1.00  0.00           O  
+HETATM   25  C20 UNL     1      12.613   2.135  -0.418  1.00  0.00           C  
+HETATM   26  C21 UNL     1      13.667   3.237  -0.257  1.00  0.00           C  
+HETATM   27  C22 UNL     1      15.083   2.783  -0.622  1.00  0.00           C  
+HETATM   28  O6  UNL     1      15.390   1.621   0.128  1.00  0.00           O  
+HETATM   29  C23 UNL     1      16.188   3.807  -0.432  1.00  0.00           C  
+HETATM   30  C24 UNL     1      17.606   3.306  -0.590  1.00  0.00           C  
+HETATM   31  C25 UNL     1      15.962   5.101  -0.150  1.00  0.00           C  
+HETATM   32  O7  UNL     1      11.098  -0.208  -0.742  1.00  0.00           O  
+HETATM   33  C26 UNL     1      11.387  -1.097   0.315  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3   10
+CONECT    3    4
+CONECT    4    5    9
+CONECT    5    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT   10   11   14
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   17
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19   23
+CONECT   19   20
+CONECT   20   21   32
+CONECT   21   22   24
+CONECT   22   23
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+CONECT   27   28   29
+CONECT   29   30   31   31
+CONECT   32   33
+END

@@ -1,0 +1,44 @@
+COMPND    17-Epinaucleidinal
+HETATM    1  C1  UNL     1      -6.062  -0.041  -1.047  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -5.910  -1.355  -0.519  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -4.670  -1.849  -0.168  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -3.552  -0.997  -0.352  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -3.699   0.292  -0.877  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -4.977   0.791  -1.234  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -2.395   0.863  -0.937  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -1.495  -0.046  -0.445  1.00  0.00           C  
+HETATM    9  N1  UNL     1      -2.208  -1.188  -0.098  1.00  0.00           N  
+HETATM   10  C9  UNL     1      -0.020   0.233  -0.380  1.00  0.00           C  
+HETATM   11  N2  UNL     1       0.300   1.664  -0.427  1.00  0.00           N  
+HETATM   12  C10 UNL     1      -0.796   2.633  -0.476  1.00  0.00           C  
+HETATM   13  C11 UNL     1      -1.963   2.218  -1.384  1.00  0.00           C  
+HETATM   14  C12 UNL     1       1.605   2.072  -0.327  1.00  0.00           C  
+HETATM   15  C13 UNL     1       2.551   0.948  -0.069  1.00  0.00           C  
+HETATM   16  C14 UNL     1       2.147  -0.117   0.920  1.00  0.00           C  
+HETATM   17  C15 UNL     1       0.630  -0.397   0.862  1.00  0.00           C  
+HETATM   18  C16 UNL     1       3.015  -1.360   0.671  1.00  0.00           C  
+HETATM   19  C17 UNL     1       4.482  -0.949   0.484  1.00  0.00           C  
+HETATM   20  O1  UNL     1       4.627  -0.106  -0.624  1.00  0.00           O  
+HETATM   21  C18 UNL     1       3.698   0.884  -0.770  1.00  0.00           C  
+HETATM   22  C19 UNL     1       5.141  -0.294   1.703  1.00  0.00           C  
+HETATM   23  C20 UNL     1       2.843  -2.395   1.773  1.00  0.00           C  
+HETATM   24  O2  UNL     1       2.526  -3.537   1.533  1.00  0.00           O  
+HETATM   25  O3  UNL     1       1.961   3.237  -0.407  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    9
+CONECT    5    6    7
+CONECT    7    8   13
+CONECT    8    9   10
+CONECT   10   11   17
+CONECT   11   12   14
+CONECT   12   13
+CONECT   14   15   25   25
+CONECT   15   16   21   21
+CONECT   16   17   18
+CONECT   18   19   23
+CONECT   19   20   22
+CONECT   20   21
+CONECT   23   24   24
+END

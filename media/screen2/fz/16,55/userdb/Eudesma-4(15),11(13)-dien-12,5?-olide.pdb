@@ -1,0 +1,29 @@
+COMPND    Eudesma-4(15),11(13)-dien-12,5?-olide
+HETATM    1  C1  UNL     1      -2.355   0.558  -1.606  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.879  -0.293  -0.451  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.755  -1.071   0.192  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.354  -0.456   0.225  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.415   1.090   0.080  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -1.248   1.525  -1.158  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.016   1.680  -0.046  1.00  0.00           C  
+HETATM    8  C8  UNL     1       1.910   0.955  -1.064  1.00  0.00           C  
+HETATM    9  C9  UNL     1       1.894  -0.565  -0.854  1.00  0.00           C  
+HETATM   10  C10 UNL     1       0.460  -1.088  -0.911  1.00  0.00           C  
+HETATM   11  C11 UNL     1       2.451  -0.943   0.496  1.00  0.00           C  
+HETATM   12  C12 UNL     1       1.593  -1.010   1.551  1.00  0.00           C  
+HETATM   13  O1  UNL     1       0.250  -0.765   1.459  1.00  0.00           O  
+HETATM   14  O2  UNL     1       2.037  -1.295   2.646  1.00  0.00           O  
+HETATM   15  C13 UNL     1       3.764  -1.188   0.646  1.00  0.00           C  
+HETATM   16  C14 UNL     1      -1.030   1.754   1.344  1.00  0.00           C  
+HETATM   17  C15 UNL     1      -1.995  -2.299   0.683  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   17   17
+CONECT    4    5   10   13
+CONECT    5    6    7   16
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   11   12   15   15
+CONECT   12   13   14   14
+END

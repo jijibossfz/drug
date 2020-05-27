@@ -1,0 +1,47 @@
+COMPND    Pseudopalmatine_methyl_nitrate
+HETATM    1  C1  UNL     1       9.354   0.653  -0.158  1.00  0.00           C  
+HETATM    2  C2  UNL     1       8.646  -0.491  -0.055  1.00  0.00           C  
+HETATM    3  C3  UNL     1       7.300  -0.398  -0.022  1.00  0.00           C  
+HETATM    4  C4  UNL     1       6.582   0.746  -0.013  1.00  0.00           C  
+HETATM    5  C5  UNL     1       7.323   1.871  -0.073  1.00  0.00           C  
+HETATM    6  C6  UNL     1       8.663   1.805  -0.124  1.00  0.00           C  
+HETATM    7  C7  UNL     1       6.681   3.231  -0.173  1.00  0.00           C  
+HETATM    8  C8  UNL     1       5.349   3.219   0.555  1.00  0.00           C  
+HETATM    9  *1  UNL     1       4.601   1.936   0.249  1.00  0.00           *  
+HETATM   10  C9  UNL     1       5.223   0.794   0.048  1.00  0.00           C  
+HETATM   11  C10 UNL     1       4.452  -0.308  -0.106  1.00  0.00           C  
+HETATM   12  C11 UNL     1       3.107  -0.285  -0.068  1.00  0.00           C  
+HETATM   13  C12 UNL     1       2.505   0.892   0.124  1.00  0.00           C  
+HETATM   14  C13 UNL     1       3.294   1.964   0.282  1.00  0.00           C  
+HETATM   15  C14 UNL     1       1.167   0.937   0.166  1.00  0.00           C  
+HETATM   16  C15 UNL     1       0.380  -0.149   0.013  1.00  0.00           C  
+HETATM   17  C16 UNL     1       0.984  -1.353  -0.165  1.00  0.00           C  
+HETATM   18  C17 UNL     1       2.335  -1.376  -0.208  1.00  0.00           C  
+HETATM   19  O1  UNL     1       0.219  -2.487  -0.305  1.00  0.00           O  
+HETATM   20  C18 UNL     1       0.832  -3.748  -0.432  1.00  0.00           C  
+HETATM   21  O2  UNL     1      -0.975   0.086   0.113  1.00  0.00           O  
+HETATM   22  C19 UNL     1      -1.873  -0.943   0.453  1.00  0.00           C  
+HETATM   23  O3  UNL     1       9.219  -1.744  -0.039  1.00  0.00           O  
+HETATM   24  C20 UNL     1      10.172  -2.007   0.966  1.00  0.00           C  
+HETATM   25  O4  UNL     1      10.725   0.686  -0.168  1.00  0.00           O  
+HETATM   26  C21 UNL     1      11.294   0.552  -1.450  1.00  0.00           C  
+CONECT    1    2    6   25
+CONECT    2    3   23
+CONECT    3    4
+CONECT    4    5   10
+CONECT    5    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   14   14
+CONECT   10   11   11
+CONECT   11   12
+CONECT   12   13   18
+CONECT   13   14   15
+CONECT   15   16
+CONECT   16   17   21
+CONECT   17   18   19
+CONECT   19   20
+CONECT   21   22
+CONECT   23   24
+CONECT   25   26
+END

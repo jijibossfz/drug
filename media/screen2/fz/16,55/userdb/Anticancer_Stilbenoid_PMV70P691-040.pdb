@@ -1,0 +1,39 @@
+COMPND    Anticancer_Stilbenoid_PMV70P691-040
+HETATM    1  C1  UNL     1       1.206   0.276  -1.179  1.00  0.00           C  
+HETATM    2  C2  UNL     1       1.567  -0.882  -0.605  1.00  0.00           C  
+HETATM    3  C3  UNL     1       0.784  -1.370   0.376  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.310  -0.685   0.756  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.659   0.501   0.221  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.117   0.951  -0.782  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -1.802   1.095   0.626  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -2.313   2.320   0.399  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -1.730   3.499   0.096  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -2.505   4.540  -0.269  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -2.004   5.755  -0.551  1.00  0.00           C  
+HETATM   12  C12 UNL     1      -0.680   5.932  -0.430  1.00  0.00           C  
+HETATM   13  C13 UNL     1       0.134   4.942  -0.033  1.00  0.00           C  
+HETATM   14  C14 UNL     1      -0.414   3.745   0.237  1.00  0.00           C  
+HETATM   15  O1  UNL     1       1.471   5.145   0.123  1.00  0.00           O  
+HETATM   16  O2  UNL     1      -2.810   6.783  -0.934  1.00  0.00           O  
+HETATM   17  C15 UNL     1       1.119  -2.694   1.034  1.00  0.00           C  
+HETATM   18  C16 UNL     1       0.711  -3.840   0.145  1.00  0.00           C  
+HETATM   19  C17 UNL     1       1.061  -5.127   0.315  1.00  0.00           C  
+HETATM   20  C18 UNL     1       0.543  -6.209  -0.604  1.00  0.00           C  
+HETATM   21  C19 UNL     1       1.954  -5.621   1.428  1.00  0.00           C  
+HETATM   22  O3  UNL     1       2.653  -1.574  -1.048  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3   22
+CONECT    3    4   17
+CONECT    4    5
+CONECT    5    6    7
+CONECT    7    8    8
+CONECT    8    9
+CONECT    9   10   14
+CONECT   10   11
+CONECT   11   12   16
+CONECT   12   13
+CONECT   13   14   15
+CONECT   17   18
+CONECT   18   19   19
+CONECT   19   20   21
+END

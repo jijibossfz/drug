@@ -1,0 +1,45 @@
+COMPND    11-O-Acetyl_haemanthamine
+HETATM    1  C1  UNL     1      -0.080  -0.664  -0.633  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.067  -2.051  -0.593  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.088  -2.752  -0.255  1.00  0.00           C  
+HETATM    4  C4  UNL     1       2.238  -2.011   0.034  1.00  0.00           C  
+HETATM    5  C5  UNL     1       2.248  -0.586  -0.038  1.00  0.00           C  
+HETATM    6  C6  UNL     1       1.060   0.087  -0.351  1.00  0.00           C  
+HETATM    7  C7  UNL     1       3.520   0.222   0.346  1.00  0.00           C  
+HETATM    8  C8  UNL     1       4.768  -0.670   0.099  1.00  0.00           C  
+HETATM    9  N1  UNL     1       4.348  -1.697   1.013  1.00  0.00           N  
+HETATM   10  C9  UNL     1       3.497  -2.735   0.519  1.00  0.00           C  
+HETATM   11  C10 UNL     1       4.241  -1.079   2.313  1.00  0.00           C  
+HETATM   12  C11 UNL     1       3.619   0.302   1.904  1.00  0.00           C  
+HETATM   13  O1  UNL     1       4.490   1.326   2.287  1.00  0.00           O  
+HETATM   14  C12 UNL     1       3.969   2.562   2.514  1.00  0.00           C  
+HETATM   15  C13 UNL     1       5.084   3.555   2.767  1.00  0.00           C  
+HETATM   16  O2  UNL     1       2.792   2.843   2.481  1.00  0.00           O  
+HETATM   17  C14 UNL     1       4.953  -0.941  -1.396  1.00  0.00           C  
+HETATM   18  C15 UNL     1       5.348   0.395  -2.050  1.00  0.00           C  
+HETATM   19  C16 UNL     1       4.458   1.526  -1.568  1.00  0.00           C  
+HETATM   20  C17 UNL     1       3.671   1.468  -0.480  1.00  0.00           C  
+HETATM   21  O3  UNL     1       6.710   0.630  -1.752  1.00  0.00           O  
+HETATM   22  C18 UNL     1       7.259   1.745  -2.419  1.00  0.00           C  
+HETATM   23  O4  UNL     1      -1.330  -2.528  -0.885  1.00  0.00           O  
+HETATM   24  C19 UNL     1      -2.181  -1.396  -1.101  1.00  0.00           C  
+HETATM   25  O5  UNL     1      -1.355  -0.235  -0.951  1.00  0.00           O  
+CONECT    1    2    6   25
+CONECT    2    3   23
+CONECT    3    4
+CONECT    4    5   10
+CONECT    5    6    7
+CONECT    7    8   12   20
+CONECT    8    9   17
+CONECT    9   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   16   16
+CONECT   17   18
+CONECT   18   19   21
+CONECT   19   20   20
+CONECT   21   22
+CONECT   23   24
+CONECT   24   25
+END

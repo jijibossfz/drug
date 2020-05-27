@@ -1,0 +1,40 @@
+COMPND    2-Methyl-4-[2',4',6'-trihydroxy-3'-(2-methylpropanoyl)phenyl]_but-2-enyl_acetate
+HETATM    1  C1  UNL     1       4.920  -1.107  -0.986  1.00  0.00           C  
+HETATM    2  C2  UNL     1       5.096   0.156  -0.124  1.00  0.00           C  
+HETATM    3  C3  UNL     1       4.216   1.379  -0.447  1.00  0.00           C  
+HETATM    4  C4  UNL     1       2.849   1.507  -0.432  1.00  0.00           C  
+HETATM    5  C5  UNL     1       2.313   2.712  -0.751  1.00  0.00           C  
+HETATM    6  O1  UNL     1       3.034   3.818  -1.101  1.00  0.00           O  
+HETATM    7  C6  UNL     1       0.981   2.861  -0.713  1.00  0.00           C  
+HETATM    8  C7  UNL     1       0.134   1.878  -0.390  1.00  0.00           C  
+HETATM    9  C8  UNL     1       0.660   0.674  -0.099  1.00  0.00           C  
+HETATM   10  C9  UNL     1       2.003   0.498  -0.113  1.00  0.00           C  
+HETATM   11  O2  UNL     1       2.458  -0.728   0.245  1.00  0.00           O  
+HETATM   12  C10 UNL     1      -0.243  -0.497   0.274  1.00  0.00           C  
+HETATM   13  C11 UNL     1      -1.647  -0.462  -0.278  1.00  0.00           C  
+HETATM   14  C12 UNL     1      -2.804  -0.517   0.409  1.00  0.00           C  
+HETATM   15  C13 UNL     1      -4.137  -0.460  -0.311  1.00  0.00           C  
+HETATM   16  O3  UNL     1      -4.907  -1.609  -0.021  1.00  0.00           O  
+HETATM   17  C14 UNL     1      -6.153  -1.659  -0.564  1.00  0.00           C  
+HETATM   18  C15 UNL     1      -6.860  -2.933  -0.147  1.00  0.00           C  
+HETATM   19  O4  UNL     1      -6.634  -0.805  -1.274  1.00  0.00           O  
+HETATM   20  C16 UNL     1      -2.918  -0.630   1.911  1.00  0.00           C  
+HETATM   21  O5  UNL     1      -1.201   2.144  -0.360  1.00  0.00           O  
+HETATM   22  O6  UNL     1       4.900   2.341  -0.734  1.00  0.00           O  
+HETATM   23  C17 UNL     1       5.273  -0.107   1.382  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3   23
+CONECT    3    4   22   22
+CONECT    4    5   10
+CONECT    5    6    7
+CONECT    7    8
+CONECT    8    9   21
+CONECT    9   10   12
+CONECT   10   11
+CONECT   12   13
+CONECT   13   14   14
+CONECT   14   15   20
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18   19   19
+END

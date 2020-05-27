@@ -1,0 +1,31 @@
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O4_22 
+ROOT
+HETATM    1  C1  UNL     1       3.123  -0.957  -0.963  1.00  0.00     0.119 A 
+HETATM    2  C2  UNL     1       3.785   0.141  -0.369  1.00  0.00     0.153 A 
+HETATM    3  C3  UNL     1       3.045   1.111   0.338  1.00  0.00     0.025 A 
+HETATM    4  C4  UNL     1       1.637   0.988   0.461  1.00  0.00    -0.018 A 
+HETATM    5  C5  UNL     1       0.957  -0.125  -0.123  1.00  0.00    -0.000 A 
+HETATM    6  C6  UNL     1       1.721  -1.088  -0.846  1.00  0.00     0.026 A 
+HETATM    7  C7  UNL     1      -0.518  -0.240   0.041  1.00  0.00     0.022 A 
+HETATM    8  C8  UNL     1      -1.250   0.922   0.429  1.00  0.00     0.010 A 
+HETATM    9  C9  UNL     1      -0.541   2.225   0.609  1.00  0.00     0.283 C 
+HETATM   10  C10 UNL     1       0.871   2.021   1.201  1.00  0.00     0.067 C 
+HETATM   11  N1  UNL     1      -1.287   3.211   1.410  1.00  0.00     0.342 N 
+HETATM   12  C11 UNL     1      -2.668   3.348   0.941  1.00  0.00     0.295 C 
+HETATM   13  C12 UNL     1      -3.428   2.014   1.084  1.00  0.00     0.064 C 
+HETATM   14  C13 UNL     1      -2.650   0.832   0.631  1.00  0.00    -0.020 A 
+HETATM   15  C14 UNL     1      -3.299  -0.398   0.408  1.00  0.00     0.022 A 
+HETATM   16  C15 UNL     1      -2.586  -1.551   0.004  1.00  0.00     0.119 A 
+HETATM   17  C16 UNL     1      -1.199  -1.481  -0.176  1.00  0.00     0.119 A 
+HETATM   18  O1  UNL     1      -0.766  -2.690  -0.535  1.00  0.00    -0.300 OA
+HETATM   19  C17 UNL     1      -1.877  -3.606  -0.619  1.00  0.00     0.304 A 
+HETATM   20  O2  UNL     1      -3.008  -2.789  -0.254  1.00  0.00    -0.300 OA
+HETATM   21  O3  UNL     1       5.115   0.264  -0.475  1.00  0.00    -0.188 OA
+ENDROOT
+BRANCH   1  22
+HETATM   22  O4  UNL     1       3.824  -1.879  -1.641  1.00  0.00    -0.326 OA
+HETATM   23  C18 UNL     1       3.152  -3.059  -2.055  1.00  0.00     0.181 C 
+ENDBRANCH   1  22
+TORSDOF 1

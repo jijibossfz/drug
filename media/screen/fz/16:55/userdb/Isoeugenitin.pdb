@@ -1,0 +1,29 @@
+COMPND    Isoeugenitin
+HETATM    1  C1  UNL     1      -0.243   0.792  -0.017  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.311   2.078   0.022  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.673   2.374   0.053  1.00  0.00           C  
+HETATM    4  C4  UNL     1       2.550   1.281   0.042  1.00  0.00           C  
+HETATM    5  C5  UNL     1       2.070  -0.044   0.008  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.677  -0.282  -0.019  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.236  -1.734  -0.055  1.00  0.00           C  
+HETATM    8  O1  UNL     1       2.912  -1.124   0.002  1.00  0.00           O  
+HETATM    9  C8  UNL     1       4.258  -0.933   0.018  1.00  0.00           C  
+HETATM   10  C9  UNL     1       4.847   0.275   0.049  1.00  0.00           C  
+HETATM   11  C10 UNL     1       4.019   1.500   0.066  1.00  0.00           C  
+HETATM   12  O2  UNL     1       4.562   2.599   0.097  1.00  0.00           O  
+HETATM   13  C11 UNL     1       5.088  -2.195  -0.001  1.00  0.00           C  
+HETATM   14  O3  UNL     1       2.062   3.678   0.085  1.00  0.00           O  
+HETATM   15  O4  UNL     1      -1.620   0.779  -0.042  1.00  0.00           O  
+HETATM   16  C12 UNL     1      -2.383  -0.399  -0.059  1.00  0.00           C  
+CONECT    1    2    6   15
+CONECT    2    3
+CONECT    3    4   14
+CONECT    4    5   11
+CONECT    5    6    8
+CONECT    6    7
+CONECT    8    9
+CONECT    9   10   10   13
+CONECT   10   11
+CONECT   11   12   12
+CONECT   15   16
+END

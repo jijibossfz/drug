@@ -1,0 +1,31 @@
+COMPND    5-Epidilatanolide_B
+HETATM    1  C1  UNL     1      -2.631   1.129   1.042  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.479   0.169  -0.143  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.258  -0.778  -0.028  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.076  -0.237   0.841  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.168   1.284   0.909  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -1.345   1.901   1.095  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.084   2.084   0.657  1.00  0.00           C  
+HETATM    8  C8  UNL     1       1.537   1.668  -0.748  1.00  0.00           C  
+HETATM    9  C9  UNL     1       2.050   0.232  -0.667  1.00  0.00           C  
+HETATM   10  C10 UNL     1       1.330  -0.685   0.336  1.00  0.00           C  
+HETATM   11  O1  UNL     1       1.290  -1.960  -0.253  1.00  0.00           O  
+HETATM   12  C11 UNL     1       1.629  -1.828  -1.565  1.00  0.00           C  
+HETATM   13  C12 UNL     1       2.021  -0.584  -1.926  1.00  0.00           C  
+HETATM   14  C13 UNL     1       2.357  -0.198  -3.162  1.00  0.00           C  
+HETATM   15  O2  UNL     1       1.567  -2.759  -2.340  1.00  0.00           O  
+HETATM   16  C14 UNL     1      -0.185  -0.737   2.306  1.00  0.00           C  
+HETATM   17  C15 UNL     1      -1.767  -2.181   0.366  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   17
+CONECT    4    5   10   16
+CONECT    5    6    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   13
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   15   15
+CONECT   13   14   14
+END

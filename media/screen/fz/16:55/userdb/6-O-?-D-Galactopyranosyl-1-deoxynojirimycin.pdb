@@ -1,0 +1,39 @@
+COMPND    6-O-?-D-Galactopyranosyl-1-deoxynojirimycin
+HETATM    1  C1  UNL     1      -0.779  -2.530   0.603  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.748  -2.705   1.765  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.055  -2.996   3.087  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.134  -2.075   3.329  1.00  0.00           C  
+HETATM    5  N1  UNL     1       1.038  -2.124   2.183  1.00  0.00           N  
+HETATM    6  C5  UNL     1       0.439  -1.663   0.930  1.00  0.00           C  
+HETATM    7  C6  UNL     1       0.163  -0.156   0.937  1.00  0.00           C  
+HETATM    8  O1  UNL     1      -0.218   0.240  -0.357  1.00  0.00           O  
+HETATM    9  C7  UNL     1      -0.478   1.620  -0.479  1.00  0.00           C  
+HETATM   10  O2  UNL     1       0.740   2.331  -0.413  1.00  0.00           O  
+HETATM   11  C8  UNL     1       1.622   2.101  -1.481  1.00  0.00           C  
+HETATM   12  C9  UNL     1       0.976   2.408  -2.825  1.00  0.00           C  
+HETATM   13  C10 UNL     1      -0.328   1.656  -2.974  1.00  0.00           C  
+HETATM   14  C11 UNL     1      -1.209   1.909  -1.770  1.00  0.00           C  
+HETATM   15  O3  UNL     1      -2.355   1.099  -1.887  1.00  0.00           O  
+HETATM   16  O4  UNL     1      -0.997   2.112  -4.124  1.00  0.00           O  
+HETATM   17  O5  UNL     1       0.705   3.784  -2.950  1.00  0.00           O  
+HETATM   18  C12 UNL     1       2.877   2.934  -1.258  1.00  0.00           C  
+HETATM   19  O6  UNL     1       3.566   2.461  -0.117  1.00  0.00           O  
+HETATM   20  O7  UNL     1      -0.584  -4.323   3.097  1.00  0.00           O  
+HETATM   21  O8  UNL     1      -2.533  -1.542   1.904  1.00  0.00           O  
+HETATM   22  O9  UNL     1      -0.306  -3.798   0.208  1.00  0.00           O  
+CONECT    1    2    6   22
+CONECT    2    3   21
+CONECT    3    4   20
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   14
+CONECT   10   11
+CONECT   11   12   18
+CONECT   12   13   17
+CONECT   13   14   16
+CONECT   14   15
+CONECT   18   19
+END

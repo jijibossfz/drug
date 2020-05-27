@@ -1,0 +1,23 @@
+COMPND    Calystegine_C1
+HETATM    1  C1  UNL     1       1.047   1.088   0.982  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.554  -0.354   1.099  1.00  0.00           C  
+HETATM    3  N1  UNL     1       1.238  -1.012  -0.005  1.00  0.00           N  
+HETATM    4  C3  UNL     1       0.959  -0.123  -1.132  1.00  0.00           C  
+HETATM    5  C4  UNL     1      -0.526  -0.201  -1.505  1.00  0.00           C  
+HETATM    6  C5  UNL     1      -1.432   0.139  -0.334  1.00  0.00           C  
+HETATM    7  O1  UNL     1      -2.738  -0.299  -0.616  1.00  0.00           O  
+HETATM    8  C6  UNL     1      -0.943  -0.531   0.935  1.00  0.00           C  
+HETATM    9  O2  UNL     1      -1.605   0.019   2.045  1.00  0.00           O  
+HETATM   10  O3  UNL     1      -0.839  -1.510  -1.922  1.00  0.00           O  
+HETATM   11  C7  UNL     1       1.332   1.233  -0.522  1.00  0.00           C  
+HETATM   12  O4  UNL     1       2.709   1.450  -0.721  1.00  0.00           O  
+HETATM   13  O5  UNL     1       0.977  -0.984   2.280  1.00  0.00           O  
+CONECT    1    2   11
+CONECT    2    3    8   13
+CONECT    3    4
+CONECT    4    5   11
+CONECT    5    6   10
+CONECT    6    7    8
+CONECT    8    9
+CONECT   11   12
+END

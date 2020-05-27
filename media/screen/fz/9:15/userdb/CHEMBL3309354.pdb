@@ -1,0 +1,21 @@
+COMPND    CHEMBL3309354
+HETATM    1  C1  UNL     1       0.568   1.939   0.000  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.568   1.114   0.000  1.00  0.00           C  
+HETATM    3  N1  UNL     1       1.235   0.629   0.000  1.00  0.00           N  
+HETATM    4  O1  UNL     1       0.980  -0.155   0.000  1.00  0.00           O  
+HETATM    5  N2  UNL     1       0.155  -0.155   0.000  1.00  0.00           N1+
+HETATM    6  O2  UNL     1      -0.330  -0.823   0.000  1.00  0.00           O1-
+HETATM    7  C3  UNL     1      -0.100   0.629   0.000  1.00  0.00           C  
+HETATM    8  S1  UNL     1      -0.884   0.884   0.000  1.00  0.00           S  
+HETATM    9  O3  UNL     1      -1.669   1.139   0.000  1.00  0.00           O  
+HETATM   10  O4  UNL     1      -0.629   1.669   0.000  1.00  0.00           O  
+HETATM   11  N3  UNL     1      -1.139   0.100   0.000  1.00  0.00           N  
+CONECT    1    2
+CONECT    2    3    3    7
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    7    7
+CONECT    7    8
+CONECT    8    9    9   10   10
+CONECT    8   11
+END

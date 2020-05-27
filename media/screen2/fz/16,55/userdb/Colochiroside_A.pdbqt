@@ -1,0 +1,29 @@
+REMARK  21 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C4_4  and  C5_5 
+REMARK    2  A    between atoms: C5_5  and  C6_6 
+REMARK    3  A    between atoms: C6_6  and  C7_7 
+REMARK    4  A    between atoms: C7_7  and  C8_8 
+REMARK    5  A    between atoms: C24_25  and  O2_28 
+REMARK    6  A    between atoms: O2_28  and  C27_29 
+REMARK    7  A    between atoms: C29_32  and  O27_83 
+REMARK    8  A    between atoms: C31_34  and  O4_35 
+REMARK    9  A    between atoms: O4_35  and  C32_36 
+REMARK   10  A    between atoms: C33_37  and  O21_72 
+REMARK   11  A    between atoms: C35_39  and  O6_43 
+REMARK   12  A    between atoms: O6_43  and  C38_44 
+REMARK   13  A    between atoms: C39_46  and  C50_65 
+REMARK   14  A    between atoms: C41_48  and  O9_51 
+REMARK   15  A    between atoms: O9_51  and  C43_52 
+REMARK   16  A    between atoms: C44_54  and  C49_62 
+REMARK   17  A    between atoms: C46_56  and  O12_59 
+REMARK   18  A    between atoms: C50_65  and  O16_66 
+REMARK   19  A    between atoms: O16_66  and  S1_67 
+REMARK   20  A    between atoms: O21_72  and  C51_73 
+REMARK   21  A    between atoms: O27_83  and  S2_84 
+ROOT
+HETATM    1  C1  UNL     1      12.062   2.669  -3.525  1.00  0.00     0.000 C 
+HETATM    2  C2  UNL     1      11.494   1.245  -3.590  1.00  0.00     0.000 C 
+HETATM    3  C3  UNL     1      12.597   0.186  -3.478  1.00  0.00     0.000 C 
+ENDROOT
+TORSDOF 21

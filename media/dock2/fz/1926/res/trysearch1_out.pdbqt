@@ -1,0 +1,40 @@
+MODEL 1
+REMARK VINA RESULT:       0.3      0.000      0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  <1> d         -39.774  15.837  50.471  0.00  0.00    -0.000 C 
+ATOM      2  C2  <1> d         -41.323  15.821  50.319  0.00  0.00    -0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:       2.0      1.102      1.521
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  <1> d         -41.328  15.837  50.391  0.00  0.00    -0.000 C 
+ATOM      2  C2  <1> d         -41.171  15.135  49.011  0.00  0.00    -0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:       2.3      1.112      1.639
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  <1> d         -41.327  15.271  48.862  0.00  0.00    -0.000 C 
+ATOM      2  C2  <1> d         -41.117  15.757  50.326  0.00  0.00    -0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:       3.2      0.821      1.678
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C1  <1> d         -40.674  15.081  49.916  0.00  0.00    -0.000 C 
+ATOM      2  C2  <1> d         -39.356  15.638  50.528  0.00  0.00    -0.000 C 
+ENDROOT
+TORSDOF 0
+ENDMDL

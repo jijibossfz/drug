@@ -1,0 +1,29 @@
+COMPND    Aristol-1(10)-en-12-ol
+HETATM    1  C1  UNL     1      -2.708   1.424   0.581  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.660  -0.047   1.002  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.433  -0.737   0.383  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.099  -0.089   0.859  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.200   1.432   0.829  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -1.367   2.088   0.721  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.098   2.188   0.977  1.00  0.00           C  
+HETATM    8  C8  UNL     1       2.054   1.816  -0.157  1.00  0.00           C  
+HETATM    9  C9  UNL     1       2.192   0.319  -0.395  1.00  0.00           C  
+HETATM   10  C10 UNL     1       1.080  -0.626   0.026  1.00  0.00           C  
+HETATM   11  C11 UNL     1       1.308  -0.338  -1.442  1.00  0.00           C  
+HETATM   12  C12 UNL     1       1.978  -1.442  -2.257  1.00  0.00           C  
+HETATM   13  O1  UNL     1       1.028  -2.356  -2.789  1.00  0.00           O  
+HETATM   14  C13 UNL     1       0.330   0.499  -2.254  1.00  0.00           C  
+HETATM   15  C14 UNL     1       0.174  -0.456   2.342  1.00  0.00           C  
+HETATM   16  C15 UNL     1      -1.532  -2.260   0.584  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   16
+CONECT    4    5   10   15
+CONECT    5    6    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   10   11
+CONECT   11   12   14
+CONECT   12   13
+END

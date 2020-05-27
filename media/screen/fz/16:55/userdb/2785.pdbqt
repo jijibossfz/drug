@@ -1,0 +1,31 @@
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C17_20  and  O3_22 
+ROOT
+HETATM    1  C1  UNL     1       0.451   0.094   0.566  1.00  0.00     0.008 A 
+HETATM    2  C2  UNL     1       1.535  -0.721   0.096  1.00  0.00     0.000 A 
+HETATM    3  C3  UNL     1       2.889  -0.326   0.311  1.00  0.00     0.115 A 
+HETATM    4  C4  UNL     1       3.184   0.859   0.984  1.00  0.00     0.119 A 
+HETATM    5  C5  UNL     1       2.123   1.664   1.453  1.00  0.00     0.026 A 
+HETATM    6  C6  UNL     1       0.781   1.295   1.252  1.00  0.00    -0.000 A 
+HETATM    7  O1  UNL     1       4.506   1.012   1.061  1.00  0.00    -0.300 OA
+HETATM    8  C7  UNL     1       5.146  -0.107   0.414  1.00  0.00     0.304 A 
+HETATM    9  O2  UNL     1       4.037  -0.914  -0.035  1.00  0.00    -0.300 OA
+HETATM   10  C8  UNL     1       1.334  -2.004  -0.645  1.00  0.00     0.030 C 
+HETATM   11  C9  UNL     1       0.230  -2.973  -0.150  1.00  0.00     0.040 C 
+HETATM   12  C10 UNL     1      -0.412  -2.641   1.201  1.00  0.00     0.251 C 
+HETATM   13  N1  UNL     1      -1.356  -1.512   1.123  1.00  0.00     0.141 N 
+HETATM   14  C11 UNL     1      -0.996  -0.293   0.357  1.00  0.00     0.228 C 
+HETATM   15  C12 UNL     1      -1.996   0.686   0.953  1.00  0.00    -0.014 C 
+HETATM   16  C13 UNL     1      -2.440   0.279   2.324  1.00  0.00     0.059 C 
+HETATM   17  C14 UNL     1      -1.848  -1.117   2.455  1.00  0.00     0.255 C 
+HETATM   18  C15 UNL     1      -2.473   1.775   0.318  1.00  0.00    -0.030 C 
+HETATM   19  C16 UNL     1      -2.125   2.076  -1.121  1.00  0.00     0.055 C 
+HETATM   20  C17 UNL     1      -1.240   1.002  -1.795  1.00  0.00     0.122 C 
+HETATM   21  C18 UNL     1      -1.385  -0.393  -1.143  1.00  0.00     0.069 C 
+ENDROOT
+BRANCH  20  22
+HETATM   22  O3  UNL     1      -1.574   0.906  -3.166  1.00  0.00    -0.354 OA
+HETATM   23  C19 UNL     1      -1.279   2.078  -3.893  1.00  0.00     0.174 C 
+ENDBRANCH  20  22
+TORSDOF 1

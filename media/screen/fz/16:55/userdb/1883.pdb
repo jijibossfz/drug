@@ -1,0 +1,19 @@
+COMPND    1883
+HETATM    1  C1  UNL     1       0.246  -0.521   0.119  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.158   0.733  -0.113  1.00  0.00           C  
+HETATM    3  N1  UNL     1      -1.492   1.043  -0.207  1.00  0.00           N  
+HETATM    4  C3  UNL     1      -2.492  -0.057  -0.066  1.00  0.00           C  
+HETATM    5  O1  UNL     1      -1.988  -1.133   0.731  1.00  0.00           O  
+HETATM    6  C4  UNL     1      -0.734  -1.660   0.299  1.00  0.00           C  
+HETATM    7  C5  UNL     1       0.994   1.615  -0.230  1.00  0.00           C  
+HETATM    8  C6  UNL     1       2.254   0.799  -0.062  1.00  0.00           C  
+HETATM    9  C7  UNL     1       1.750  -0.639   0.186  1.00  0.00           C  
+HETATM   10  O2  UNL     1       0.955   2.809  -0.426  1.00  0.00           O  
+CONECT    1    2    2    6    9
+CONECT    2    3    7
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    7    8   10   10
+CONECT    8    9
+END

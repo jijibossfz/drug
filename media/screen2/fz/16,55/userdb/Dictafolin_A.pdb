@@ -1,0 +1,26 @@
+COMPND    Dictafolin_A
+HETATM    1  C1  UNL     1      -1.730  -1.468   1.218  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.139  -0.308   1.869  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.429   0.875   1.669  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.308   0.923   0.835  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.066  -0.268   0.177  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -0.578  -1.502   0.420  1.00  0.00           C  
+HETATM    7  O1  UNL     1      -0.285  -2.650  -0.269  1.00  0.00           O  
+HETATM    8  C7  UNL     1       0.615  -3.500   0.407  1.00  0.00           C  
+HETATM    9  C8  UNL     1       1.244  -0.202  -0.730  1.00  0.00           C  
+HETATM   10  C9  UNL     1       1.916   1.153  -0.835  1.00  0.00           C  
+HETATM   11  C10 UNL     1       0.928   2.291  -0.616  1.00  0.00           C  
+HETATM   12  O2  UNL     1       0.288   2.136   0.614  1.00  0.00           O  
+HETATM   13  C11 UNL     1      -0.095   2.425  -1.746  1.00  0.00           C  
+HETATM   14  O3  UNL     1       1.710  -1.147  -1.355  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5   12
+CONECT    5    6    9
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10   14   14
+CONECT   10   11
+CONECT   11   12   13
+END

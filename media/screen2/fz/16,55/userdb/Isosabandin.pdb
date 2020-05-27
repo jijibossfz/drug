@@ -1,0 +1,33 @@
+COMPND    Isosabandin
+HETATM    1  C1  UNL     1      -1.082  -0.608   0.138  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.501   0.726   0.087  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.632   1.806   0.145  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.742   1.649   0.300  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.163   0.308   0.427  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.295  -0.819   0.391  1.00  0.00           C  
+HETATM    7  O1  UNL     1       0.901  -2.049   0.532  1.00  0.00           O  
+HETATM    8  C7  UNL     1       0.256  -3.244   0.168  1.00  0.00           C  
+HETATM    9  C8  UNL     1       2.602   0.104   0.632  1.00  0.00           C  
+HETATM   10  C9  UNL     1       3.441   1.161   0.670  1.00  0.00           C  
+HETATM   11  C10 UNL     1       2.889   2.522   0.509  1.00  0.00           C  
+HETATM   12  O2  UNL     1       1.557   2.745   0.340  1.00  0.00           O  
+HETATM   13  O3  UNL     1       3.675   3.468   0.532  1.00  0.00           O  
+HETATM   14  O4  UNL     1      -1.347   2.981   0.030  1.00  0.00           O  
+HETATM   15  C11 UNL     1      -2.730   2.640  -0.100  1.00  0.00           C  
+HETATM   16  O5  UNL     1      -2.788   1.210  -0.064  1.00  0.00           O  
+HETATM   17  O6  UNL     1      -2.023  -1.603   0.133  1.00  0.00           O  
+HETATM   18  C12 UNL     1      -2.658  -1.814  -1.108  1.00  0.00           C  
+CONECT    1    2    6   17
+CONECT    2    3   16
+CONECT    3    4   14
+CONECT    4    5   12
+CONECT    5    6    9
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   12   13   13
+CONECT   14   15
+CONECT   15   16
+CONECT   17   18
+END

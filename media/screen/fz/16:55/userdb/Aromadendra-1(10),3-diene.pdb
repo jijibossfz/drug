@@ -1,0 +1,27 @@
+COMPND    Aromadendra-1(10),3-diene
+HETATM    1  C1  UNL     1      -0.096   1.573  -0.539  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.560   0.130  -0.553  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.246  -0.541   0.773  1.00  0.00           C  
+HETATM    4  C4  UNL     1       1.210  -0.849   1.046  1.00  0.00           C  
+HETATM    5  C5  UNL     1       2.186  -0.405  -0.034  1.00  0.00           C  
+HETATM    6  C6  UNL     1       2.373   1.119  -0.053  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.165   1.999  -0.327  1.00  0.00           C  
+HETATM    8  C8  UNL     1       1.515   3.473  -0.321  1.00  0.00           C  
+HETATM    9  C9  UNL     1       0.219  -1.980   0.857  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -0.189  -2.736   2.118  1.00  0.00           C  
+HETATM   11  C11 UNL     1       0.272  -2.866  -0.379  1.00  0.00           C  
+HETATM   12  C12 UNL     1      -2.047   0.262  -0.740  1.00  0.00           C  
+HETATM   13  C13 UNL     1      -2.427   1.538  -0.865  1.00  0.00           C  
+HETATM   14  C14 UNL     1      -1.274   2.496  -0.785  1.00  0.00           C  
+HETATM   15  C15 UNL     1      -2.946  -0.937  -0.795  1.00  0.00           C  
+CONECT    1    2    7    7   14
+CONECT    2    3   12
+CONECT    3    4    9
+CONECT    4    5    9
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10   11
+CONECT   12   13   13   15
+CONECT   13   14
+END

@@ -1,0 +1,25 @@
+COMPND    Bicycloelemene
+HETATM    1  C1  UNL     1      -0.431   1.202  -0.575  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.561  -0.232  -0.001  1.00  0.00           C  
+HETATM    3  C3  UNL     1       0.769  -0.981   0.052  1.00  0.00           C  
+HETATM    4  C4  UNL     1       2.028  -0.194   0.367  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.893   1.319   0.513  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.496   1.957   0.408  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.491  -1.187   1.372  1.00  0.00           C  
+HETATM    8  C8  UNL     1       2.223  -2.519   1.498  1.00  0.00           C  
+HETATM    9  C9  UNL     1       0.942  -0.684   2.699  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -1.654  -1.111  -0.596  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -2.598  -1.665   0.186  1.00  0.00           C  
+HETATM   12  C12 UNL     1      -1.673  -1.385  -2.081  1.00  0.00           C  
+HETATM   13  C13 UNL     1      -1.791   1.883  -0.531  1.00  0.00           C  
+HETATM   14  C14 UNL     1      -2.223   2.839  -1.367  1.00  0.00           C  
+HETATM   15  C15 UNL     1       0.195   1.250  -1.984  1.00  0.00           C  
+CONECT    1    2    6   13   15
+CONECT    2    3   10
+CONECT    3    4    7
+CONECT    4    5    7
+CONECT    5    6
+CONECT    7    8    9
+CONECT   10   11   11   12
+CONECT   13   14   14
+END

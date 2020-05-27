@@ -1,0 +1,26 @@
+COMPND    Plocoralide_A
+HETATM    1 BR1  UNL     1      -2.659  -3.969  -0.329  1.00  0.00          BR  
+HETATM    2  C1  UNL     1      -1.238  -3.501  -1.579  1.00  0.00           C  
+HETATM    3  C2  UNL     1      -0.254  -2.550  -0.931  1.00  0.00           C  
+HETATM    4  C3  UNL     1       0.750  -3.212  -0.013  1.00  0.00           C  
+HETATM    5  C4  UNL     1      -0.322  -1.231  -1.189  1.00  0.00           C  
+HETATM    6  C5  UNL     1       0.556  -0.121  -0.642  1.00  0.00           C  
+HETATM    7  C6  UNL     1       1.496   0.367  -1.754  1.00  0.00           C  
+HETATM    8  C7  UNL     1      -0.260   0.986   0.047  1.00  0.00           C  
+HETATM    9  C8  UNL     1       0.632   1.964   0.798  1.00  0.00           C  
+HETATM   10  C9  UNL     1       1.008   3.264   0.122  1.00  0.00           C  
+HETATM   11  C10 UNL     1       1.078   1.626   2.024  1.00  0.00           C  
+HETATM   12  C11 UNL     1       1.946   2.451   2.937  1.00  0.00           C  
+HETATM   13 CL1  UNL     1       1.292   2.476   4.584  1.00  0.00          CL  
+HETATM   14 CL2  UNL     1       3.589   1.788   2.961  1.00  0.00          CL  
+HETATM   15 BR2  UNL     1      -1.579   1.864  -1.098  1.00  0.00          BR  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4    5    5
+CONECT    5    6
+CONECT    6    7    8
+CONECT    8    9   15
+CONECT    9   10   11   11
+CONECT   11   12
+CONECT   12   13   14
+END

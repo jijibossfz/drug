@@ -1,0 +1,28 @@
+COMPND    Junenol
+HETATM    1  C1  UNL     1       0.554  -2.336   2.773  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.931  -1.999   2.589  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.154  -0.960   1.513  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.108  -0.384   0.900  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.946  -1.549   0.328  1.00  0.00           C  
+HETATM    6  C6  UNL     1       1.219  -2.625   1.419  1.00  0.00           C  
+HETATM    7  C7  UNL     1       2.284  -0.947  -0.146  1.00  0.00           C  
+HETATM    8  C8  UNL     1       2.109   0.173  -1.177  1.00  0.00           C  
+HETATM    9  C9  UNL     1       1.201   1.329  -0.706  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -0.093   0.785  -0.073  1.00  0.00           C  
+HETATM   11  O1  UNL     1      -0.715   1.806   0.680  1.00  0.00           O  
+HETATM   12  C11 UNL     1       0.948   2.317  -1.883  1.00  0.00           C  
+HETATM   13  C12 UNL     1       2.257   2.886  -2.468  1.00  0.00           C  
+HETATM   14  C13 UNL     1       0.035   3.506  -1.528  1.00  0.00           C  
+HETATM   15  C14 UNL     1       0.214  -2.231  -0.850  1.00  0.00           C  
+HETATM   16  C15 UNL     1      -2.407  -0.660   1.135  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   16   16
+CONECT    4    5   10
+CONECT    5    6    7   15
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   12
+CONECT   10   11
+CONECT   12   13   14
+END

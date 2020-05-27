@@ -1,0 +1,32 @@
+COMPND    1?,4?,4?,5?-Diepoxy-10?,11?H-xantha-12,8?-olide
+HETATM    1  C1  UNL     1      -2.056   1.426  -2.349  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.294   0.107  -2.349  1.00  0.00           C  
+HETATM    3  O1  UNL     1       0.074   0.410  -2.349  1.00  0.00           O  
+HETATM    4  C3  UNL     1       0.369   0.648  -0.999  1.00  0.00           C  
+HETATM    5  C4  UNL     1      -0.999   0.773  -0.340  1.00  0.00           C  
+HETATM    6  C5  UNL     1      -1.770   1.917  -0.984  1.00  0.00           C  
+HETATM    7  C6  UNL     1      -0.822   1.053   1.147  1.00  0.00           C  
+HETATM    8  C7  UNL     1       0.100   0.083   1.885  1.00  0.00           C  
+HETATM    9  C8  UNL     1       1.529   0.575   1.693  1.00  0.00           C  
+HETATM   10  C9  UNL     1       2.166  -0.158   0.520  1.00  0.00           C  
+HETATM   11  C10 UNL     1       1.081  -0.586  -0.461  1.00  0.00           C  
+HETATM   12  C11 UNL     1       2.792  -1.394   1.154  1.00  0.00           C  
+HETATM   13  C12 UNL     1       2.974  -1.008   2.601  1.00  0.00           C  
+HETATM   14  O2  UNL     1       2.273   0.151   2.802  1.00  0.00           O  
+HETATM   15  O3  UNL     1       3.618  -1.610   3.428  1.00  0.00           O  
+HETATM   16  C13 UNL     1       1.865  -2.595   1.027  1.00  0.00           C  
+HETATM   17  C14 UNL     1      -2.194   0.991   1.804  1.00  0.00           C  
+HETATM   18  O4  UNL     1      -1.436  -0.367  -1.037  1.00  0.00           O  
+HETATM   19  C15 UNL     1      -1.750  -0.798  -3.486  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3   18   19
+CONECT    3    4
+CONECT    4    5   11
+CONECT    5    6    7   18
+CONECT    7    8   17
+CONECT    8    9
+CONECT    9   10   14
+CONECT   10   11   12
+CONECT   12   13   16
+CONECT   13   14   15   15
+END

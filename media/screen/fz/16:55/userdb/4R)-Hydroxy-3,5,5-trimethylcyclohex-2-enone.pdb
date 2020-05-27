@@ -1,0 +1,19 @@
+COMPND    4R)-Hydroxy-3,5,5-trimethylcyclohex-2-enone
+HETATM    1  C1  UNL     1      -0.030  -1.586   0.731  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.974  -0.606   0.008  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.480   0.832   0.220  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.975   1.003  -0.138  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.845  -0.022  -0.055  1.00  0.00           C  
+HETATM    6  C6  UNL     1       1.431  -1.377   0.382  1.00  0.00           C  
+HETATM    7  O1  UNL     1       2.243  -2.289   0.467  1.00  0.00           O  
+HETATM    8  C7  UNL     1       1.410   2.388  -0.547  1.00  0.00           C  
+HETATM    9  O2  UNL     1      -0.635   1.215   1.574  1.00  0.00           O  
+HETATM   10  C8  UNL     1      -2.408  -0.777   0.553  1.00  0.00           C  
+HETATM   11  C9  UNL     1      -1.002  -0.925  -1.504  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3   10   11
+CONECT    3    4    9
+CONECT    4    5    5    8
+CONECT    5    6
+CONECT    6    7    7
+END

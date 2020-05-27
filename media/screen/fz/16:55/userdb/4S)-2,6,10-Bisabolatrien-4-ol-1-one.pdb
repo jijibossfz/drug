@@ -1,0 +1,30 @@
+COMPND    4S)-2,6,10-Bisabolatrien-4-ol-1-one
+HETATM    1  C1  UNL     1      -0.621   0.121  -0.807  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.736  -1.099  -1.730  1.00  0.00           C  
+HETATM    3  C3  UNL     1       0.511  -1.970  -1.609  1.00  0.00           C  
+HETATM    4  C4  UNL     1       1.756  -1.135  -1.765  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.773   0.175  -1.473  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.695   0.863  -1.016  1.00  0.00           C  
+HETATM    7  O1  UNL     1       0.788   2.046  -0.769  1.00  0.00           O  
+HETATM    8  C7  UNL     1       2.991  -1.862  -2.239  1.00  0.00           C  
+HETATM    9  O2  UNL     1       0.540  -2.600  -0.342  1.00  0.00           O  
+HETATM   10  C8  UNL     1      -1.818   1.053  -0.885  1.00  0.00           C  
+HETATM   11  C9  UNL     1      -2.510   1.463   0.195  1.00  0.00           C  
+HETATM   12  C10 UNL     1      -2.244   1.072   1.629  1.00  0.00           C  
+HETATM   13  C11 UNL     1      -0.861   1.483   2.069  1.00  0.00           C  
+HETATM   14  C12 UNL     1       0.048   0.729   2.714  1.00  0.00           C  
+HETATM   15  C13 UNL     1       1.423   1.271   3.030  1.00  0.00           C  
+HETATM   16  C14 UNL     1      -0.168  -0.697   3.162  1.00  0.00           C  
+HETATM   17  C15 UNL     1      -2.192   1.555  -2.262  1.00  0.00           C  
+CONECT    1    2    6   10
+CONECT    2    3
+CONECT    3    4    9
+CONECT    4    5    5    8
+CONECT    5    6
+CONECT    6    7    7
+CONECT   10   11   11   17
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   14
+CONECT   14   15   16
+END

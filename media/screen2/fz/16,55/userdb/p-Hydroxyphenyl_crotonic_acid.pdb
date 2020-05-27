@@ -1,0 +1,23 @@
+COMPND    p-Hydroxyphenyl_crotonic_acid
+HETATM    1  C1  UNL     1       2.147   2.469  -0.639  1.00  0.00           C  
+HETATM    2  C2  UNL     1       2.649   1.215  -0.282  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.797   0.147   0.011  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.405   0.297  -0.040  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.099   1.547  -0.426  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.758   2.612  -0.710  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -0.497  -0.845   0.286  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -1.716  -0.553   1.101  1.00  0.00           C  
+HETATM    9  O1  UNL     1      -1.859   0.556   1.599  1.00  0.00           O  
+HETATM   10  O2  UNL     1      -2.698  -1.432   1.378  1.00  0.00           O  
+HETATM   11  C9  UNL     1      -0.184  -2.072  -0.190  1.00  0.00           C  
+HETATM   12  C10 UNL     1      -0.882  -3.396  -0.027  1.00  0.00           C  
+HETATM   13  O3  UNL     1       2.972   3.516  -0.908  1.00  0.00           O  
+CONECT    1    2    6   13
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    7
+CONECT    5    6
+CONECT    7    8   11   11
+CONECT    8    9    9   10
+CONECT   11   12
+END

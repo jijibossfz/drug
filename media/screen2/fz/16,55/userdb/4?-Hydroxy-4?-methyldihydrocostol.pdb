@@ -1,0 +1,29 @@
+COMPND    4?-Hydroxy-4?-methyldihydrocostol
+HETATM    1  C1  UNL     1       0.249  -2.149   2.833  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.195  -1.997   2.352  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.408  -0.650   1.646  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.123  -0.152   0.943  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.837  -1.269   0.459  1.00  0.00           C  
+HETATM    6  C6  UNL     1       1.231  -2.184   1.651  1.00  0.00           C  
+HETATM    7  C7  UNL     1       2.127  -0.606  -0.094  1.00  0.00           C  
+HETATM    8  C8  UNL     1       1.863   0.433  -1.194  1.00  0.00           C  
+HETATM    9  C9  UNL     1       0.913   1.529  -0.690  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -0.385   0.918  -0.136  1.00  0.00           C  
+HETATM   11  C11 UNL     1       0.656   2.595  -1.747  1.00  0.00           C  
+HETATM   12  C12 UNL     1       1.097   3.852  -1.570  1.00  0.00           C  
+HETATM   13  C13 UNL     1      -0.099   2.186  -2.994  1.00  0.00           C  
+HETATM   14  O1  UNL     1      -0.236   3.232  -3.947  1.00  0.00           O  
+HETATM   15  C14 UNL     1       0.225  -2.139  -0.664  1.00  0.00           C  
+HETATM   16  C15 UNL     1      -2.651  -0.733   0.754  1.00  0.00           C  
+HETATM   17  O2  UNL     1      -1.716   0.291   2.649  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   16   17
+CONECT    4    5   10
+CONECT    5    6    7   15
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11
+CONECT   11   12   12   13
+CONECT   13   14
+END

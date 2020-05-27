@@ -1,0 +1,41 @@
+COMPND    ent-12?,16-Epoxy-2?,15?,19-trihydroxypimar-8-ene
+HETATM    1  C1  UNL     1      -3.273  -0.621   0.982  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.953  -2.109   1.048  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.899  -2.560   0.009  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.676  -1.598   0.088  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.934  -0.061   0.098  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -2.015   0.224   1.166  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.386   0.640   0.436  1.00  0.00           C  
+HETATM    8  C8  UNL     1       1.587   0.072   0.225  1.00  0.00           C  
+HETATM    9  C9  UNL     1       1.776  -1.314  -0.335  1.00  0.00           C  
+HETATM   10  C10 UNL     1       0.479  -1.933  -0.868  1.00  0.00           C  
+HETATM   11  C11 UNL     1       2.837   0.772   0.695  1.00  0.00           C  
+HETATM   12  C12 UNL     1       2.852   2.268   0.342  1.00  0.00           C  
+HETATM   13  C13 UNL     1       1.464   2.921   0.464  1.00  0.00           C  
+HETATM   14  C14 UNL     1       0.365   2.027   1.037  1.00  0.00           C  
+HETATM   15  O1  UNL     1       1.089   3.341  -0.821  1.00  0.00           O  
+HETATM   16  C15 UNL     1       2.273   3.655  -1.501  1.00  0.00           C  
+HETATM   17  C16 UNL     1       3.223   2.539  -1.126  1.00  0.00           C  
+HETATM   18  O2  UNL     1       2.959   1.427  -1.948  1.00  0.00           O  
+HETATM   19  C17 UNL     1       3.868   2.980   1.260  1.00  0.00           C  
+HETATM   20  C18 UNL     1      -1.355   0.560  -1.253  1.00  0.00           C  
+HETATM   21  C19 UNL     1      -2.510  -2.652  -1.399  1.00  0.00           C  
+HETATM   22  O3  UNL     1      -3.479  -3.680  -1.474  1.00  0.00           O  
+HETATM   23  C20 UNL     1      -1.462  -3.994   0.421  1.00  0.00           C  
+HETATM   24  O4  UNL     1      -4.190  -0.301   2.005  1.00  0.00           O  
+CONECT    1    2    6   24
+CONECT    2    3
+CONECT    3    4   21   23
+CONECT    4    5   10
+CONECT    5    6    7   20
+CONECT    7    8    8   14
+CONECT    8    9   11
+CONECT    9   10
+CONECT   11   12
+CONECT   12   13   17   19
+CONECT   13   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   21   22
+END

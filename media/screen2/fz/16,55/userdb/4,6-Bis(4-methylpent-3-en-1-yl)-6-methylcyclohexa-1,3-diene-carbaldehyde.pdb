@@ -1,0 +1,38 @@
+COMPND    4,6-Bis(4-methylpent-3-en-1-yl)-6-methylcyclohexa-1,3-diene-carbaldehyde
+HETATM    1  C1  UNL     1      -0.037  -1.531   0.015  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.061  -0.431   0.393  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.861   0.223  -0.752  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -2.484  -0.855  -1.652  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -1.460  -1.902  -2.107  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -0.750  -2.558  -0.908  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.173  -3.663  -1.401  1.00  0.00           C  
+HETATM    8  O1  UNL     1       0.058  -4.809  -1.036  1.00  0.00           O  
+HETATM    9  C8  UNL     1      -1.069   1.306  -1.512  1.00  0.00           C  
+HETATM   10  C9  UNL     1      -1.948   2.304  -2.290  1.00  0.00           C  
+HETATM   11  C10 UNL     1      -1.105   3.455  -2.789  1.00  0.00           C  
+HETATM   12  C11 UNL     1      -1.277   4.768  -2.550  1.00  0.00           C  
+HETATM   13  C12 UNL     1      -0.294   5.788  -3.080  1.00  0.00           C  
+HETATM   14  C13 UNL     1      -2.406   5.371  -1.748  1.00  0.00           C  
+HETATM   15  C14 UNL     1       0.420  -2.260   1.315  1.00  0.00           C  
+HETATM   16  C15 UNL     1       1.149  -1.391   2.357  1.00  0.00           C  
+HETATM   17  C16 UNL     1       1.533  -2.190   3.579  1.00  0.00           C  
+HETATM   18  C17 UNL     1       2.745  -2.288   4.156  1.00  0.00           C  
+HETATM   19  C18 UNL     1       2.946  -3.137   5.392  1.00  0.00           C  
+HETATM   20  C19 UNL     1       4.003  -1.602   3.678  1.00  0.00           C  
+HETATM   21  C20 UNL     1       1.216  -0.940  -0.667  1.00  0.00           C  
+CONECT    1    2    6   15   21
+CONECT    2    3
+CONECT    3    4    9
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8    8
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   12
+CONECT   12   13   14
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18   18
+CONECT   18   19   20
+END

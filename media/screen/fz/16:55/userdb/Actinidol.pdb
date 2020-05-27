@@ -1,0 +1,26 @@
+COMPND    Actinidol
+HETATM    1  C1  UNL     1      -2.012   0.459  -1.068  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.934  -1.031  -1.297  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.011  -1.830  -0.741  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.044  -1.337   0.219  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.027   0.164   0.298  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -1.332   0.919   0.239  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -1.116   2.445   0.194  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -2.225   0.596   1.452  1.00  0.00           C  
+HETATM    9  C9  UNL     1       1.220   0.641   0.286  1.00  0.00           C  
+HETATM   10  C10 UNL     1       2.174  -0.511   0.136  1.00  0.00           C  
+HETATM   11  O1  UNL     1       1.351  -1.591  -0.274  1.00  0.00           O  
+HETATM   12  C11 UNL     1       3.277  -0.291  -0.890  1.00  0.00           C  
+HETATM   13  C12 UNL     1       4.172   0.908  -0.584  1.00  0.00           C  
+HETATM   14  O2  UNL     1       4.089  -1.443  -0.924  1.00  0.00           O  
+HETATM   15  C13 UNL     1      -0.098  -2.030   1.577  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3    3
+CONECT    3    4
+CONECT    4    5   11   15
+CONECT    5    6    9    9
+CONECT    6    7    8
+CONECT    9   10
+CONECT   10   11   12
+CONECT   12   13   14
+END

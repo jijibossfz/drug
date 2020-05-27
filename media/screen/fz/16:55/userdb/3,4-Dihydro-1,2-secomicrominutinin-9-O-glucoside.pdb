@@ -1,0 +1,52 @@
+COMPND    3,4-Dihydro-1,2-secomicrominutinin-9-O-glucoside
+HETATM    1  C1  UNL     1      -3.295   1.764   0.173  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -3.295   0.427   0.173  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -2.137  -0.241   0.173  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.979   0.427   0.193  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.979   1.764   0.213  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -2.137   2.433   0.173  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.316   2.512   0.280  1.00  0.00           C  
+HETATM    8  C8  UNL     1       0.037   4.008   0.327  1.00  0.00           C  
+HETATM    9  C9  UNL     1       1.342   4.762   0.394  1.00  0.00           C  
+HETATM   10  O1  UNL     1       1.341   6.099   0.444  1.00  0.00           O  
+HETATM   11  O2  UNL     1       2.389   4.159   0.404  1.00  0.00           O  
+HETATM   12  O3  UNL     1       0.195  -0.251   0.193  1.00  0.00           O  
+HETATM   13  C10 UNL     1       1.409   0.450   0.214  1.00  0.00           C  
+HETATM   14  C11 UNL     1       2.214   0.056   1.442  1.00  0.00           C  
+HETATM   15  C12 UNL     1       2.454  -1.448   1.423  1.00  0.00           C  
+HETATM   16  C13 UNL     1       3.009  -1.856   0.064  1.00  0.00           C  
+HETATM   17  C14 UNL     1       2.131  -1.276  -1.037  1.00  0.00           C  
+HETATM   18  O4  UNL     1       2.170   0.120  -0.916  1.00  0.00           O  
+HETATM   19  C15 UNL     1       0.700  -1.772  -0.876  1.00  0.00           C  
+HETATM   20  O5  UNL     1       0.311  -2.462  -2.033  1.00  0.00           O  
+HETATM   21  O6  UNL     1       4.315  -1.365  -0.073  1.00  0.00           O  
+HETATM   22  O7  UNL     1       1.244  -2.118   1.653  1.00  0.00           O  
+HETATM   23  O8  UNL     1       3.444   0.727   1.431  1.00  0.00           O  
+HETATM   24  C16 UNL     1      -2.371  -1.720   0.164  1.00  0.00           C  
+HETATM   25  C17 UNL     1      -3.888  -1.853   0.155  1.00  0.00           C  
+HETATM   26  O9  UNL     1      -4.247  -0.344   0.162  1.00  0.00           O  
+HETATM   27  O10 UNL     1      -4.174  -2.396  -1.105  1.00  0.00           O  
+HETATM   28  C18 UNL     1      -3.032  -3.147  -1.418  1.00  0.00           C  
+HETATM   29  C19 UNL     1      -1.951  -2.284  -1.158  1.00  0.00           C  
+HETATM   30  C20 UNL     1      -0.857  -2.037  -1.886  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3   26
+CONECT    3    4   24
+CONECT    4    5   12
+CONECT    5    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   11   11
+CONECT   12   13
+CONECT   13   14   18
+CONECT   14   15   23
+CONECT   15   16   22
+CONECT   16   17   21
+CONECT   17   18   19
+CONECT   19   20
+CONECT   24   25   29
+CONECT   25   26   27
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30   30
+END

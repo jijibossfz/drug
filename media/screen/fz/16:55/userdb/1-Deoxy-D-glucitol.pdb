@@ -1,0 +1,18 @@
+COMPND    1-Deoxy-D-glucitol
+HETATM    1  C1  UNL     1      -0.325  -0.026  -1.879  1.00  0.00           C  
+HETATM    2  O1  UNL     1      -0.527   1.245  -2.453  1.00  0.00           O  
+HETATM    3  C2  UNL     1       0.468   0.164  -0.597  1.00  0.00           C  
+HETATM    4  O2  UNL     1       1.588   0.965  -0.897  1.00  0.00           O  
+HETATM    5  C3  UNL     1      -0.294   0.868   0.514  1.00  0.00           C  
+HETATM    6  O3  UNL     1       0.641   1.244   1.498  1.00  0.00           O  
+HETATM    7  C4  UNL     1      -1.377   0.052   1.203  1.00  0.00           C  
+HETATM    8  O4  UNL     1      -1.838   0.814   2.296  1.00  0.00           O  
+HETATM    9  C5  UNL     1      -0.926  -1.286   1.762  1.00  0.00           C  
+HETATM   10  O5  UNL     1      -1.952  -1.767   2.606  1.00  0.00           O  
+HETATM   11  C6  UNL     1       0.391  -0.914  -2.893  1.00  0.00           C  
+CONECT    1    2    3   11
+CONECT    3    4    5
+CONECT    5    6    7
+CONECT    7    8    9
+CONECT    9   10
+END

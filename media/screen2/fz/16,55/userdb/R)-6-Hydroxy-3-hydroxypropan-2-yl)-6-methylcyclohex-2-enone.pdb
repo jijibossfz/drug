@@ -1,0 +1,21 @@
+COMPND    R)-6-Hydroxy-3-hydroxypropan-2-yl)-6-methylcyclohex-2-enone
+HETATM    1  C1  UNL     1      -1.087   1.018   0.222  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.553  -0.424   0.405  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.469  -1.224   1.124  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.897  -1.127   0.439  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.306   0.308   0.193  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.369   1.274   0.104  1.00  0.00           C  
+HETATM    7  C7  UNL     1       2.798   0.566  -0.008  1.00  0.00           C  
+HETATM    8  C8  UNL     1       3.188   2.046  -0.065  1.00  0.00           C  
+HETATM    9  C9  UNL     1       3.274  -0.123  -1.291  1.00  0.00           C  
+HETATM   10  O1  UNL     1       3.520   0.009   1.073  1.00  0.00           O  
+HETATM   11  C10 UNL     1      -1.911  -0.998  -0.965  1.00  0.00           C  
+HETATM   12  O2  UNL     1      -2.714  -0.471   1.210  1.00  0.00           O  
+HETATM   13  O3  UNL     1      -1.885   1.937   0.082  1.00  0.00           O  
+CONECT    1    2    6   13   13
+CONECT    2    3   11   12
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    6    7
+CONECT    7    8    9   10
+END

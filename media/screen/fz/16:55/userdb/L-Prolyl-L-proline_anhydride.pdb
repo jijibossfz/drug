@@ -1,0 +1,26 @@
+COMPND    L-Prolyl-L-proline_anhydride
+HETATM    1  C1  UNL     1      -1.121   0.476  -0.135  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.843  -1.008  -0.001  1.00  0.00           C  
+HETATM    3  N1  UNL     1       0.472  -1.362  -0.091  1.00  0.00           N  
+HETATM    4  C3  UNL     1       1.595  -0.469   0.112  1.00  0.00           C  
+HETATM    5  C4  UNL     1       1.327   0.999  -0.140  1.00  0.00           C  
+HETATM    6  N2  UNL     1       0.018   1.367  -0.035  1.00  0.00           N  
+HETATM    7  C5  UNL     1      -0.438   2.733   0.166  1.00  0.00           C  
+HETATM    8  C6  UNL     1      -1.934   2.598   0.522  1.00  0.00           C  
+HETATM    9  C7  UNL     1      -2.134   1.101   0.827  1.00  0.00           C  
+HETATM   10  O1  UNL     1       2.224   1.800  -0.271  1.00  0.00           O  
+HETATM   11  C8  UNL     1       2.739  -1.121  -0.670  1.00  0.00           C  
+HETATM   12  C9  UNL     1       2.476  -2.608  -0.371  1.00  0.00           C  
+HETATM   13  C10 UNL     1       0.939  -2.718  -0.336  1.00  0.00           C  
+HETATM   14  O2  UNL     1      -1.738  -1.819   0.047  1.00  0.00           O  
+CONECT    1    2    6    9
+CONECT    2    3   14   14
+CONECT    3    4   13
+CONECT    4    5   11
+CONECT    5    6   10   10
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT   11   12
+CONECT   12   13
+END

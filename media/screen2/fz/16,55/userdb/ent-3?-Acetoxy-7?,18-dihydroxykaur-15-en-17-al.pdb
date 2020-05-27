@@ -1,0 +1,45 @@
+COMPND    ent-3?-Acetoxy-7?,18-dihydroxykaur-15-en-17-al
+HETATM    1  C1  UNL     1       0.729   0.842   0.958  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.606  -0.643   0.618  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.271  -1.048  -0.724  1.00  0.00           C  
+HETATM    4  C4  UNL     1       2.705  -0.431  -0.757  1.00  0.00           C  
+HETATM    5  C5  UNL     1       2.887   1.083  -0.435  1.00  0.00           C  
+HETATM    6  C6  UNL     1       2.187   1.322   0.925  1.00  0.00           C  
+HETATM    7  C7  UNL     1       4.416   1.459  -0.427  1.00  0.00           C  
+HETATM    8  C8  UNL     1       5.402   0.265  -0.476  1.00  0.00           C  
+HETATM    9  C9  UNL     1       5.074  -0.763  -1.560  1.00  0.00           C  
+HETATM   10  C10 UNL     1       3.596  -0.821  -1.945  1.00  0.00           C  
+HETATM   11  O1  UNL     1       5.502  -2.034  -1.124  1.00  0.00           O  
+HETATM   12  C11 UNL     1       6.837   0.813  -0.702  1.00  0.00           C  
+HETATM   13  C12 UNL     1       7.149   1.463   0.657  1.00  0.00           C  
+HETATM   14  C13 UNL     1       6.337   2.763   0.746  1.00  0.00           C  
+HETATM   15  C14 UNL     1       4.824   2.487   0.660  1.00  0.00           C  
+HETATM   16  C15 UNL     1       6.579   0.400   1.561  1.00  0.00           C  
+HETATM   17  C16 UNL     1       5.609  -0.280   0.923  1.00  0.00           C  
+HETATM   18  C17 UNL     1       6.961   0.140   2.962  1.00  0.00           C  
+HETATM   19  O2  UNL     1       7.838   0.778   3.524  1.00  0.00           O  
+HETATM   20  C18 UNL     1       2.243   2.045  -1.468  1.00  0.00           C  
+HETATM   21  C19 UNL     1       1.351  -2.601  -0.710  1.00  0.00           C  
+HETATM   22  O3  UNL     1       1.414  -3.161  -2.008  1.00  0.00           O  
+HETATM   23  C20 UNL     1       0.390  -0.634  -1.921  1.00  0.00           C  
+HETATM   24  O4  UNL     1      -0.751  -0.997   0.608  1.00  0.00           O  
+HETATM   25  C21 UNL     1      -1.310  -1.472   1.753  1.00  0.00           C  
+HETATM   26  C22 UNL     1      -2.763  -1.828   1.512  1.00  0.00           C  
+HETATM   27  O5  UNL     1      -0.739  -1.605   2.812  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3   24
+CONECT    3    4   21   23
+CONECT    4    5   10
+CONECT    5    6    7   20
+CONECT    7    8   15
+CONECT    8    9   12   17
+CONECT    9   10   11
+CONECT   12   13
+CONECT   13   14   16
+CONECT   14   15
+CONECT   16   17   17   18
+CONECT   18   19   19
+CONECT   21   22
+CONECT   24   25
+CONECT   25   26   27   27
+END

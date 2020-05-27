@@ -1,0 +1,32 @@
+COMPND    Asteriscunolide_A
+HETATM    1  C1  UNL     1      -2.308   1.222  -1.879  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.590  -0.253  -1.554  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.373  -1.030  -1.165  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.090  -0.688  -1.346  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.818  -1.642  -0.620  1.00  0.00           C  
+HETATM    6  C6  UNL     1       1.687  -0.996   0.476  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.953  -0.547   1.741  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -0.197   0.107   1.987  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -1.224   0.684   1.053  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -0.848   1.856   0.205  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -1.378   2.058  -1.020  1.00  0.00           C  
+HETATM   12  C12 UNL     1       0.069   2.878   0.834  1.00  0.00           C  
+HETATM   13  O1  UNL     1      -2.409   0.490   1.298  1.00  0.00           O  
+HETATM   14  C13 UNL     1       2.703  -2.092   0.913  1.00  0.00           C  
+HETATM   15  C14 UNL     1       2.520   0.172  -0.086  1.00  0.00           C  
+HETATM   16  O2  UNL     1      -0.024  -2.648  -0.075  1.00  0.00           O  
+HETATM   17  C15 UNL     1      -1.298  -2.286  -0.394  1.00  0.00           C  
+HETATM   18  O3  UNL     1      -2.283  -2.947  -0.072  1.00  0.00           O  
+CONECT    1    2   11
+CONECT    2    3
+CONECT    3    4    4   17
+CONECT    4    5
+CONECT    5    6   16
+CONECT    6    7   14   15
+CONECT    7    8    8
+CONECT    8    9
+CONECT    9   10   13   13
+CONECT   10   11   11   12
+CONECT   16   17
+CONECT   17   18   18
+END

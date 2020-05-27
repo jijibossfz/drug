@@ -1,0 +1,31 @@
+COMPND    Pipelol_A
+HETATM    1  C1  UNL     1       0.413   1.133  -0.648  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.449  -0.350  -0.207  1.00  0.00           C  
+HETATM    3  C3  UNL     1       0.160  -0.406   1.288  1.00  0.00           C  
+HETATM    4  C4  UNL     1       1.057   0.349   2.251  1.00  0.00           C  
+HETATM    5  C5  UNL     1       2.217   1.225   1.771  1.00  0.00           C  
+HETATM    6  C6  UNL     1       2.758   1.291   0.329  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.795   1.785  -0.767  1.00  0.00           C  
+HETATM    8  O1  UNL     1       1.619   3.169  -0.584  1.00  0.00           O  
+HETATM    9  C8  UNL     1       2.454   1.621  -2.137  1.00  0.00           C  
+HETATM   10  O2  UNL     1       2.438   0.271  -2.554  1.00  0.00           O  
+HETATM   11  C9  UNL     1       1.055  -1.168   2.244  1.00  0.00           C  
+HETATM   12  C10 UNL     1       0.314  -1.874   3.377  1.00  0.00           C  
+HETATM   13  C11 UNL     1       2.275  -1.943   1.773  1.00  0.00           C  
+HETATM   14  C12 UNL     1      -0.562  -1.060  -1.125  1.00  0.00           C  
+HETATM   15  C13 UNL     1      -1.510   0.048  -1.586  1.00  0.00           C  
+HETATM   16  C14 UNL     1      -0.551   1.220  -1.843  1.00  0.00           C  
+HETATM   17  C15 UNL     1      -1.276  -2.260  -0.510  1.00  0.00           C  
+HETATM   18  O3  UNL     1       0.135  -1.531  -2.256  1.00  0.00           O  
+CONECT    1    2    7   16
+CONECT    2    3   14
+CONECT    3    4   11
+CONECT    4    5   11
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8    9
+CONECT    9   10
+CONECT   11   12   13
+CONECT   14   15   17   18
+CONECT   15   16
+END

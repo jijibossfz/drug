@@ -1,0 +1,25 @@
+COMPND    Cyprotene
+HETATM    1  C1  UNL     1      -0.189   0.322  -0.361  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.224  -1.205  -0.344  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.298  -1.685   1.092  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.296  -0.384   1.912  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.149   0.025   2.245  1.00  0.00           C  
+HETATM    6  C6  UNL     1       2.011   0.127   0.979  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.295   0.780  -0.225  1.00  0.00           C  
+HETATM    8  C8  UNL     1       2.172   0.549  -1.472  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -0.968   0.633   0.960  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -2.483   0.317   0.852  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -0.893   2.087   1.476  1.00  0.00           C  
+HETATM   12  C12 UNL     1      -0.186  -2.099  -1.347  1.00  0.00           C  
+HETATM   13  C13 UNL     1      -0.132  -1.873  -2.833  1.00  0.00           C  
+HETATM   14  C14 UNL     1      -0.879   1.007  -1.552  1.00  0.00           C  
+CONECT    1    2    7    9   14
+CONECT    2    3   12   12
+CONECT    3    4
+CONECT    4    5    9
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10   11
+CONECT   12   13
+END

@@ -1,0 +1,29 @@
+COMPND    5-Hydroxy-lactara-6,8-dien-13-oic_acid_?-lactone
+HETATM    1  C1  UNL     1      -1.381   0.594  -1.000  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.081  -0.713  -1.076  1.00  0.00           C  
+HETATM    3  C3  UNL     1       0.171  -1.402  -0.796  1.00  0.00           C  
+HETATM    4  C4  UNL     1       1.159  -0.940  -0.009  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.215   0.282   0.873  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.113   1.355   0.864  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -0.474   1.680  -0.516  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -1.004   1.013   1.869  1.00  0.00           C  
+HETATM    9  C9  UNL     1       2.614   0.793   0.489  1.00  0.00           C  
+HETATM   10  C10 UNL     1       3.493  -0.479   0.402  1.00  0.00           C  
+HETATM   11  C11 UNL     1       2.500  -1.627   0.098  1.00  0.00           C  
+HETATM   12  C12 UNL     1       4.213  -0.732   1.742  1.00  0.00           C  
+HETATM   13  C13 UNL     1       4.550  -0.337  -0.707  1.00  0.00           C  
+HETATM   14  C14 UNL     1      -2.273  -1.325  -1.698  1.00  0.00           C  
+HETATM   15  O1  UNL     1      -3.266  -0.423  -1.958  1.00  0.00           O  
+HETATM   16  C15 UNL     1      -2.768   0.843  -1.536  1.00  0.00           C  
+HETATM   17  O2  UNL     1      -2.375  -2.522  -1.943  1.00  0.00           O  
+CONECT    1    2    2    7   16
+CONECT    2    3   14
+CONECT    3    4    4
+CONECT    4    5   11
+CONECT    5    6    9
+CONECT    6    7    8
+CONECT    9   10
+CONECT   10   11   12   13
+CONECT   14   15   17   17
+CONECT   15   16
+END

@@ -1,0 +1,27 @@
+COMPND    Ginsenol
+HETATM    1  C1  UNL     1      -0.951   0.180   0.581  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.925  -1.359   0.701  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.335  -1.791   2.074  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.552  -0.752   2.773  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.389   0.003   1.744  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.495   0.705   0.687  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.919   0.398  -0.782  1.00  0.00           C  
+HETATM    8  C8  UNL     1       1.098  -1.128  -0.966  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -0.105  -1.956  -0.474  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -0.222   0.928  -1.693  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -1.447   0.743  -0.769  1.00  0.00           C  
+HETATM   12  C12 UNL     1       0.024   2.397  -2.121  1.00  0.00           C  
+HETATM   13  C13 UNL     1      -0.428   0.206  -3.047  1.00  0.00           C  
+HETATM   14  C14 UNL     1       0.507   2.201   1.080  1.00  0.00           C  
+HETATM   15  C15 UNL     1      -2.349  -1.972   0.627  1.00  0.00           C  
+HETATM   16  O1  UNL     1      -1.772   0.700   1.594  1.00  0.00           O  
+CONECT    1    2    6   11   16
+CONECT    2    3    9   15
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7   14
+CONECT    7    8   10
+CONECT    8    9
+CONECT   10   11   12   13
+END

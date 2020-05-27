@@ -1,0 +1,37 @@
+COMPND    4383
+HETATM    1  C1  UNL     1      -0.474  -0.828  -0.525  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.086  -0.415  -1.818  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.151  -0.817  -2.345  1.00  0.00           C  
+HETATM    4  C4  UNL     1       1.990  -1.627  -1.595  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.601  -2.026  -0.320  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.391  -1.626   0.260  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.052  -2.004   1.684  1.00  0.00           C  
+HETATM    8  C8  UNL     1       2.669  -2.869   0.260  1.00  0.00           C  
+HETATM    9  C9  UNL     1       3.852  -2.812  -0.706  1.00  0.00           C  
+HETATM   10  C10 UNL     1       3.329  -2.166  -2.009  1.00  0.00           C  
+HETATM   11  C11 UNL     1       4.519  -4.172  -0.940  1.00  0.00           C  
+HETATM   12  O1  UNL     1       2.648  -3.521   1.293  1.00  0.00           O  
+HETATM   13  C12 UNL     1      -0.939   0.467  -2.707  1.00  0.00           C  
+HETATM   14  C13 UNL     1      -1.822  -0.404   0.036  1.00  0.00           C  
+HETATM   15  C14 UNL     1      -1.762   1.016   0.600  1.00  0.00           C  
+HETATM   16  O2  UNL     1      -3.029   1.364   1.087  1.00  0.00           O  
+HETATM   17  C15 UNL     1      -3.227   2.620   1.594  1.00  0.00           C  
+HETATM   18  O3  UNL     1      -4.350   2.892   2.013  1.00  0.00           O  
+HETATM   19  C16 UNL     1      -2.166   3.659   1.706  1.00  0.00           C  
+HETATM   20  C17 UNL     1      -2.360   4.943   2.076  1.00  0.00           C  
+HETATM   21  C18 UNL     1      -3.669   5.598   2.424  1.00  0.00           C  
+CONECT    1    2    6   14
+CONECT    2    3   13
+CONECT    3    4
+CONECT    4    5   10
+CONECT    5    6    8
+CONECT    6    7
+CONECT    8    9   12   12
+CONECT    9   10   11
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18   18   19
+CONECT   19   20   20
+CONECT   20   21
+END

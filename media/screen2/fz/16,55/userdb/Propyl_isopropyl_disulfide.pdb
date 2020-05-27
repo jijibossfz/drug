@@ -1,0 +1,16 @@
+COMPND    Propyl_isopropyl_disulfide
+HETATM    1  C1  UNL     1      -2.173  -3.216   0.861  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.032  -2.736  -0.049  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.046  -1.207  -0.204  1.00  0.00           C  
+HETATM    4  S1  UNL     1       0.241  -0.711  -1.397  1.00  0.00           S  
+HETATM    5  S2  UNL     1       0.101   1.313  -1.414  1.00  0.00           S  
+HETATM    6  C4  UNL     1       1.276   1.841  -0.114  1.00  0.00           C  
+HETATM    7  C5  UNL     1       2.697   1.859  -0.698  1.00  0.00           C  
+HETATM    8  C6  UNL     1       0.864   3.237   0.380  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7    8
+END

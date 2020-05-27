@@ -1,0 +1,35 @@
+COMPND    t-Butyl_3-[(1-methylthiopropyl)thio]-2-propenyl_malonate
+HETATM    1  C1  UNL     1      -4.245  -2.534   1.376  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -5.478  -1.662   1.089  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -2.985  -1.717   1.737  1.00  0.00           C  
+HETATM    4  S1  UNL     1      -3.238  -0.934   3.360  1.00  0.00           S  
+HETATM    5  C4  UNL     1      -1.891   0.277   3.385  1.00  0.00           C  
+HETATM    6  C5  UNL     1      -1.591   1.131   2.396  1.00  0.00           C  
+HETATM    7  C6  UNL     1      -0.454   2.119   2.468  1.00  0.00           C  
+HETATM    8  O1  UNL     1       0.470   1.865   1.430  1.00  0.00           O  
+HETATM    9  C7  UNL     1       1.574   2.653   1.385  1.00  0.00           C  
+HETATM   10  C8  UNL     1       2.503   2.321   0.221  1.00  0.00           C  
+HETATM   11  C9  UNL     1       2.125   1.212  -0.757  1.00  0.00           C  
+HETATM   12  O2  UNL     1       2.982   1.228  -1.813  1.00  0.00           O  
+HETATM   13  C10 UNL     1       2.855   0.320  -2.864  1.00  0.00           C  
+HETATM   14  C11 UNL     1       4.015   0.624  -3.825  1.00  0.00           C  
+HETATM   15  C12 UNL     1       2.987  -1.128  -2.374  1.00  0.00           C  
+HETATM   16  C13 UNL     1       1.530   0.530  -3.608  1.00  0.00           C  
+HETATM   17  O3  UNL     1       1.205   0.442  -0.613  1.00  0.00           O  
+HETATM   18  O4  UNL     1       1.808   3.540   2.175  1.00  0.00           O  
+HETATM   19  S2  UNL     1      -1.587  -2.885   1.857  1.00  0.00           S  
+HETATM   20  C14 UNL     1      -0.239  -1.855   1.218  1.00  0.00           C  
+CONECT    1    2    3
+CONECT    3    4   19
+CONECT    4    5
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   18   18
+CONECT   10   11
+CONECT   11   12   17   17
+CONECT   12   13
+CONECT   13   14   15   16
+CONECT   19   20
+END

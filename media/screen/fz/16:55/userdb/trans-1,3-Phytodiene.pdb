@@ -1,0 +1,37 @@
+COMPND    trans-1,3-Phytodiene
+HETATM    1  C1  UNL     1       9.519   6.954   2.520  1.00  0.00           C  
+HETATM    2  C2  UNL     1       9.754   5.550   1.996  1.00  0.00           C  
+HETATM    3  C3  UNL     1       8.727   4.676   1.984  1.00  0.00           C  
+HETATM    4  C4  UNL     1       8.735   3.402   1.554  1.00  0.00           C  
+HETATM    5  C5  UNL     1       7.519   2.506   1.574  1.00  0.00           C  
+HETATM    6  C6  UNL     1       7.743   1.225   2.403  1.00  0.00           C  
+HETATM    7  C7  UNL     1       8.082   1.582   3.863  1.00  0.00           C  
+HETATM    8  C8  UNL     1       6.516   0.288   2.368  1.00  0.00           C  
+HETATM    9  C9  UNL     1       6.234  -0.323   0.985  1.00  0.00           C  
+HETATM   10  C10 UNL     1       5.009  -1.254   0.993  1.00  0.00           C  
+HETATM   11  C11 UNL     1       4.581  -1.718  -0.416  1.00  0.00           C  
+HETATM   12  C12 UNL     1       5.638  -2.640  -1.051  1.00  0.00           C  
+HETATM   13  C13 UNL     1       3.199  -2.409  -0.376  1.00  0.00           C  
+HETATM   14  C14 UNL     1       2.477  -2.391  -1.736  1.00  0.00           C  
+HETATM   15  C15 UNL     1       1.097  -3.068  -1.680  1.00  0.00           C  
+HETATM   16  C16 UNL     1       0.198  -2.764  -2.900  1.00  0.00           C  
+HETATM   17  C17 UNL     1       0.859  -3.202  -4.219  1.00  0.00           C  
+HETATM   18  C18 UNL     1      -1.185  -3.425  -2.713  1.00  0.00           C  
+HETATM   19  C19 UNL     1      -2.252  -2.930  -3.700  1.00  0.00           C  
+HETATM   20  C20 UNL     1      10.992   5.255   1.561  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3   20   20
+CONECT    3    4    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17   18
+CONECT   18   19
+END

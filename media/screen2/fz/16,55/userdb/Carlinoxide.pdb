@@ -1,0 +1,28 @@
+COMPND    Carlinoxide
+HETATM    1  C1  UNL     1      -5.644  -2.818   0.764  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -5.707  -1.957  -0.489  1.00  0.00           C  
+HETATM    3  O1  UNL     1      -4.476  -2.123  -1.148  1.00  0.00           O  
+HETATM    4  C3  UNL     1      -3.510  -2.546  -0.204  1.00  0.00           C  
+HETATM    5  C4  UNL     1      -4.188  -2.582   1.163  1.00  0.00           C  
+HETATM    6  C5  UNL     1      -2.300  -1.701  -0.249  1.00  0.00           C  
+HETATM    7  C6  UNL     1      -1.343  -0.957  -0.277  1.00  0.00           C  
+HETATM    8  C7  UNL     1      -0.225   0.002  -0.308  1.00  0.00           C  
+HETATM    9  C8  UNL     1      -0.646   1.453  -0.266  1.00  0.00           C  
+HETATM   10  C9  UNL     1       0.337   2.451  -0.262  1.00  0.00           C  
+HETATM   11  C10 UNL     1      -0.005   3.805  -0.224  1.00  0.00           C  
+HETATM   12  C11 UNL     1      -1.348   4.184  -0.190  1.00  0.00           C  
+HETATM   13  C12 UNL     1      -2.340   3.202  -0.194  1.00  0.00           C  
+HETATM   14  C13 UNL     1      -1.989   1.851  -0.232  1.00  0.00           C  
+CONECT    1    2    5
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    6
+CONECT    6    7    7    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   14
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+END

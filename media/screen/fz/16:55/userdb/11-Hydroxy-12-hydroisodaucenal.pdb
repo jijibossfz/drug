@@ -1,0 +1,29 @@
+COMPND    11-Hydroxy-12-hydroisodaucenal
+HETATM    1  C1  UNL     1      -0.725   1.465   1.380  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.649   0.126   0.912  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -2.003  -0.438  -0.581  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.893  -0.252  -1.839  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.681   0.245  -1.654  1.00  0.00           C  
+HETATM    6  C6  UNL     1       1.345   0.957  -0.647  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.884   1.642   0.781  1.00  0.00           C  
+HETATM    8  C8  UNL     1       1.514  -0.084  -2.848  1.00  0.00           C  
+HETATM    9  O1  UNL     1       1.079  -0.641  -3.845  1.00  0.00           O  
+HETATM   10  C9  UNL     1      -0.320  -0.140   0.373  1.00  0.00           C  
+HETATM   11  C10 UNL     1      -0.921   1.482  -0.478  1.00  0.00           C  
+HETATM   12  C11 UNL     1      -1.459   2.473   0.565  1.00  0.00           C  
+HETATM   13  C12 UNL     1       0.196  -1.670   0.140  1.00  0.00           C  
+HETATM   14  C13 UNL     1       1.726  -1.773   0.433  1.00  0.00           C  
+HETATM   15  C14 UNL     1       0.018  -2.668  -1.028  1.00  0.00           C  
+HETATM   16  O2  UNL     1      -0.388  -2.389   1.217  1.00  0.00           O  
+HETATM   17  C15 UNL     1      -0.809   1.747   2.882  1.00  0.00           C  
+CONECT    1    2    7   12   17
+CONECT    2    3   10
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    6    8
+CONECT    6    7
+CONECT    8    9    9
+CONECT   10   11   13
+CONECT   11   12
+CONECT   13   14   15   16
+END

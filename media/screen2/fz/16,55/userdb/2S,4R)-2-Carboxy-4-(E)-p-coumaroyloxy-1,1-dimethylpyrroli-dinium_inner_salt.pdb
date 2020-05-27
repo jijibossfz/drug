@@ -1,0 +1,39 @@
+COMPND    2S,4R)-2-Carboxy-4-(E)-p-coumaroyloxy-1,1-dimethylpyrroli-dinium_inner_salt
+HETATM    1  C1  UNL     1      -0.982  -2.611  -0.581  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.337  -1.125  -0.688  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -2.725  -1.018  -0.042  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -3.128  -2.447   0.371  1.00  0.00           C  
+HETATM    5  *1  UNL     1      -2.340  -3.299  -0.592  1.00  0.00           *  
+HETATM    6  C5  UNL     1      -2.160  -4.737  -0.137  1.00  0.00           C  
+HETATM    7  C6  UNL     1      -2.909  -3.303  -2.004  1.00  0.00           C  
+HETATM    8  C7  UNL     1      -4.576  -2.815   0.253  1.00  0.00           C  
+HETATM    9  O1  UNL     1      -4.868  -3.933   0.719  1.00  0.00           O  
+HETATM   10  O2  UNL     1      -5.327  -2.052  -0.384  1.00  0.00           O  
+HETATM   11  O3  UNL     1      -0.395  -0.352   0.005  1.00  0.00           O  
+HETATM   12  C8  UNL     1       0.252   0.675  -0.620  1.00  0.00           C  
+HETATM   13  C9  UNL     1       1.227   1.494   0.139  1.00  0.00           C  
+HETATM   14  C10 UNL     1       1.918   2.528  -0.402  1.00  0.00           C  
+HETATM   15  C11 UNL     1       2.902   3.357   0.309  1.00  0.00           C  
+HETATM   16  C12 UNL     1       3.520   4.415  -0.380  1.00  0.00           C  
+HETATM   17  C13 UNL     1       4.469   5.225   0.243  1.00  0.00           C  
+HETATM   18  C14 UNL     1       4.844   5.016   1.575  1.00  0.00           C  
+HETATM   19  C15 UNL     1       4.229   3.965   2.260  1.00  0.00           C  
+HETATM   20  C16 UNL     1       3.278   3.149   1.645  1.00  0.00           C  
+HETATM   21  O4  UNL     1       5.770   5.800   2.187  1.00  0.00           O  
+HETATM   22  O5  UNL     1       0.051   0.924  -1.806  1.00  0.00           O  
+CONECT    1    2    5
+CONECT    2    3   11
+CONECT    3    4
+CONECT    4    5    8
+CONECT    5    6    7
+CONECT    8    9    9   10
+CONECT   11   12
+CONECT   12   13   22   22
+CONECT   13   14   14
+CONECT   14   15
+CONECT   15   16   20
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19   21
+CONECT   19   20
+END

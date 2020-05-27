@@ -1,0 +1,37 @@
+COMPND    ZINC08957962
+HETATM    1  C1  UNL     1       4.757   8.957   1.217  1.00  0.00           C  
+HETATM    2  C2  UNL     1       3.244   8.837   1.022  1.00  0.00           C  
+HETATM    3  C3  UNL     1       2.810   9.721  -0.150  1.00  0.00           C  
+HETATM    4  C4  UNL     1       2.528   9.291   2.295  1.00  0.00           C  
+HETATM    5  C5  UNL     1       2.888   7.403   0.728  1.00  0.00           C  
+HETATM    6  O1  UNL     1       3.761   6.557   0.680  1.00  0.00           O  
+HETATM    7  N1  UNL     1       1.621   7.062   0.522  1.00  0.00           N  
+HETATM    8  C6  UNL     1       1.306   5.795   0.263  1.00  0.00           C  
+HETATM    9  N2  UNL     1       0.077   5.262   0.028  1.00  0.00           N  
+HETATM   10  C7  UNL     1      -0.055   3.909  -0.225  1.00  0.00           C  
+HETATM   11  C8  UNL     1       1.146   3.186  -0.214  1.00  0.00           C  
+HETATM   12  S1  UNL     1       2.365   4.426   0.144  1.00  0.00           S  
+HETATM   13  C9  UNL     1       1.195   1.832  -0.447  1.00  0.00           C  
+HETATM   14  C10 UNL     1       0.025   1.140  -0.704  1.00  0.00           C  
+HETATM   15  C11 UNL     1      -1.178   1.828  -0.726  1.00  0.00           C  
+HETATM   16  C12 UNL     1      -1.228   3.183  -0.488  1.00  0.00           C  
+HETATM   17 CL1  UNL     1      -2.757   4.004  -0.519  1.00  0.00          CL  
+HETATM   18 CL2  UNL     1      -2.648   0.965  -1.054  1.00  0.00          CL  
+HETATM   19  C13 UNL     1      -1.108   6.123   0.044  1.00  0.00           C  
+HETATM   20  C14 UNL     1      -1.446   6.516  -1.334  1.00  0.00           C  
+HETATM   21  C15 UNL     1      -1.717   6.830  -2.433  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    4    5
+CONECT    5    6    6    7
+CONECT    7    8    8
+CONECT    8    9   12
+CONECT    9   10   19
+CONECT   10   11   11   16
+CONECT   11   12   13
+CONECT   13   14   14
+CONECT   14   15
+CONECT   15   16   16   18
+CONECT   16   17
+CONECT   19   20
+CONECT   20   21   21   21
+END

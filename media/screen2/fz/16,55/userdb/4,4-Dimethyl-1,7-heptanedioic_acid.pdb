@@ -1,0 +1,23 @@
+COMPND    4,4-Dimethyl-1,7-heptanedioic_acid
+HETATM    1  O1  UNL     1      -4.972  -0.227   0.010  1.00  0.00           O  
+HETATM    2  C1  UNL     1      -3.856   0.526   0.000  1.00  0.00           C  
+HETATM    3  C2  UNL     1      -2.608  -0.338   0.002  1.00  0.00           C  
+HETATM    4  C3  UNL     1      -1.302   0.475  -0.001  1.00  0.00           C  
+HETATM    5  C4  UNL     1       0.030  -0.328   0.000  1.00  0.00           C  
+HETATM    6  C5  UNL     1       1.193   0.705  -0.001  1.00  0.00           C  
+HETATM    7  C6  UNL     1       2.626   0.143   0.002  1.00  0.00           C  
+HETATM    8  C7  UNL     1       3.695   1.220   0.000  1.00  0.00           C  
+HETATM    9  O2  UNL     1       4.930   0.683   0.010  1.00  0.00           O  
+HETATM   10  O3  UNL     1       3.530   2.417  -0.010  1.00  0.00           O  
+HETATM   11  C8  UNL     1       0.112  -1.218   1.257  1.00  0.00           C  
+HETATM   12  C9  UNL     1       0.112  -1.219  -1.256  1.00  0.00           C  
+HETATM   13  O4  UNL     1      -3.912   1.733  -0.009  1.00  0.00           O  
+CONECT    1    2
+CONECT    2    3   13   13
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6   11   12
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9   10   10
+END

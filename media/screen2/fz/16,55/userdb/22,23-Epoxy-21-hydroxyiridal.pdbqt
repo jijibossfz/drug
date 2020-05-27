@@ -1,0 +1,79 @@
+REMARK  13 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C28_32 
+REMARK    2  A    between atoms: C6_6  and  C7_7 
+REMARK    3  A    between atoms: C7_7  and  C8_8 
+REMARK    4  A    between atoms: C8_8  and  C9_9 
+REMARK    5  A    between atoms: C10_10  and  C11_11 
+REMARK    6  A    between atoms: C11_11  and  C12_12 
+REMARK    7  A    between atoms: C12_12  and  C13_13 
+REMARK    8  A    between atoms: C14_14  and  C15_15 
+REMARK    9  A    between atoms: C15_15  and  C16_16 
+REMARK   10  A    between atoms: C16_16  and  C17_17 
+REMARK   11  A    between atoms: C25_28  and  C26_29 
+REMARK   12  A    between atoms: C28_32  and  C29_33 
+REMARK   13  A    between atoms: C29_33  and  C30_34 
+ROOT
+HETATM    1  C7  UNL     1       2.487  -1.065  -0.492  1.00  0.00     0.011 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  C6  UNL     1       3.088  -2.273  -1.269  1.00  0.00     0.041 C 
+HETATM    3  C1  UNL     1       1.973  -3.272  -1.727  1.00  0.00    -0.047 C 
+HETATM    4  C2  UNL     1       2.613  -4.403  -2.531  1.00  0.00    -0.031 C 
+HETATM    5  C3  UNL     1       3.098  -3.838  -3.853  1.00  0.00     0.028 C 
+HETATM    6  C25 UNL     1       2.836  -5.682  -2.142  1.00  0.00     0.016 C 
+HETATM    7  C4  UNL     1       4.246  -2.878  -3.514  1.00  0.00     0.035 C 
+HETATM    8  C5  UNL     1       3.827  -1.748  -2.554  1.00  0.00     0.130 C 
+HETATM    9  C24 UNL     1       3.041  -0.694  -3.358  1.00  0.00     0.033 C 
+HETATM   10  O3  UNL     1       5.019  -1.107  -2.163  1.00  0.00    -0.226 OA
+HETATM   11  C27 UNL     1       2.495  -6.277  -0.794  1.00  0.00     0.034 C 
+HETATM   12  C23 UNL     1       4.090  -3.005  -0.347  1.00  0.00     0.006 C 
+BRANCH   3  13
+HETATM   13  C28 UNL     1       0.859  -3.635  -0.726  1.00  0.00     0.024 C 
+BRANCH  13  14
+HETATM   14  C29 UNL     1      -0.334  -4.380  -1.357  1.00  0.00     0.040 C 
+BRANCH  14  15
+HETATM   15  C30 UNL     1      -1.337  -4.812  -0.289  1.00  0.00     0.183 C 
+HETATM   16  O5  UNL     1      -2.445  -5.440  -0.901  1.00  0.00    -0.221 OA
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH   3  13
+BRANCH   6  17
+HETATM   17  C26 UNL     1       3.531  -6.649  -3.047  1.00  0.00     0.230 C 
+HETATM   18  O4  UNL     1       4.508  -6.403  -3.734  1.00  0.00    -0.283 OA
+ENDBRANCH   6  17
+ENDBRANCH   1   2
+BRANCH   1  19
+HETATM   19  C8  UNL     1       2.235  -1.196   1.027  1.00  0.00     0.026 C 
+BRANCH  19  20
+HETATM   20  C9  UNL     1       1.270  -0.139   1.513  1.00  0.00    -0.035 C 
+HETATM   21  C10 UNL     1       1.175   0.377   2.752  1.00  0.00    -0.048 C 
+HETATM   22  C22 UNL     1       2.049  -0.064   3.904  1.00  0.00     0.026 C 
+BRANCH  21  23
+HETATM   23  C11 UNL     1       0.166   1.452   3.124  1.00  0.00     0.026 C 
+BRANCH  23  24
+HETATM   24  C12 UNL     1      -0.674   2.040   1.975  1.00  0.00     0.030 C 
+BRANCH  24  25
+HETATM   25  C13 UNL     1      -1.567   3.175   2.419  1.00  0.00    -0.034 C 
+HETATM   26  C14 UNL     1      -2.014   4.184   1.648  1.00  0.00    -0.045 C 
+HETATM   27  C21 UNL     1      -1.703   4.318   0.174  1.00  0.00     0.026 C 
+BRANCH  26  28
+HETATM   28  C15 UNL     1      -2.865   5.292   2.242  1.00  0.00     0.057 C 
+BRANCH  28  29
+HETATM   29  C16 UNL     1      -4.247   5.403   1.594  1.00  0.00     0.185 C 
+HETATM   30  O2  UNL     1      -4.862   4.127   1.667  1.00  0.00    -0.220 OA
+BRANCH  29  31
+HETATM   31  C17 UNL     1      -5.144   6.443   2.263  1.00  0.00     0.170 A 
+HETATM   32  C18 UNL     1      -6.162   7.175   1.553  1.00  0.00     0.120 A 
+HETATM   33  C19 UNL     1      -7.265   7.853   2.352  1.00  0.00     0.032 C 
+HETATM   34  O1  UNL     1      -4.715   7.742   1.939  1.00  0.00    -0.354 OA
+HETATM   35  C20 UNL     1      -6.361   7.135   0.047  1.00  0.00     0.032 C 
+ENDBRANCH  29  31
+ENDBRANCH  28  29
+ENDBRANCH  26  28
+ENDBRANCH  24  25
+ENDBRANCH  23  24
+ENDBRANCH  21  23
+ENDBRANCH  19  20
+ENDBRANCH   1  19
+TORSDOF 13

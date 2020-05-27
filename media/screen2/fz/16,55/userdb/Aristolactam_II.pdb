@@ -1,0 +1,38 @@
+COMPND    Aristolactam_II
+HETATM    1  C1  UNL     1      -2.141   1.607  -0.112  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.796   1.529  -0.029  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.139   0.350   0.011  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.979  -0.688  -0.030  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -2.307  -0.634  -0.107  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -2.953   0.535  -0.153  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -2.732  -1.918  -0.124  1.00  0.00           C  
+HETATM    8  N1  UNL     1      -1.713  -2.672  -0.059  1.00  0.00           N  
+HETATM    9  C8  UNL     1      -0.648  -1.978  -0.003  1.00  0.00           C  
+HETATM   10  C9  UNL     1       0.648  -2.288   0.073  1.00  0.00           C  
+HETATM   11  C10 UNL     1       1.548  -1.280   0.114  1.00  0.00           C  
+HETATM   12  C11 UNL     1       1.175   0.028   0.082  1.00  0.00           C  
+HETATM   13  C12 UNL     1       2.151   0.957   0.119  1.00  0.00           C  
+HETATM   14  C13 UNL     1       3.448   0.624   0.195  1.00  0.00           C  
+HETATM   15  C14 UNL     1       3.804  -0.665   0.232  1.00  0.00           C  
+HETATM   16  C15 UNL     1       2.853  -1.608   0.189  1.00  0.00           C  
+HETATM   17  O1  UNL     1      -3.869  -2.315  -0.187  1.00  0.00           O  
+HETATM   18  O2  UNL     1      -0.307   2.657  -0.003  1.00  0.00           O  
+HETATM   19  C16 UNL     1      -1.369   3.605  -0.097  1.00  0.00           C  
+HETATM   20  O3  UNL     1      -2.523   2.774  -0.144  1.00  0.00           O  
+CONECT    1    2    6   20
+CONECT    2    3   18
+CONECT    3    4   12
+CONECT    4    5    9
+CONECT    5    6    7
+CONECT    7    8   17   17
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   16
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   18   19
+CONECT   19   20
+END

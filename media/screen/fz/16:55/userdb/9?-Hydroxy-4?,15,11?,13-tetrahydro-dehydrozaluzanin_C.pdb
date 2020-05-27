@@ -1,0 +1,32 @@
+COMPND    9?-Hydroxy-4?,15,11?,13-tetrahydro-dehydrozaluzanin_C
+HETATM    1  C1  UNL     1      -0.102  -0.852  -1.137  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.351  -1.044   0.327  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.067   0.161   0.944  1.00  0.00           C  
+HETATM    4  C4  UNL     1       2.116   0.806   0.040  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.567   1.953  -0.823  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.605   1.510  -1.923  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -0.490   0.587  -1.428  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -1.723   1.066  -1.197  1.00  0.00           C  
+HETATM    9  O1  UNL     1       1.332   0.901  -2.976  1.00  0.00           O  
+HETATM   10  C9  UNL     1       3.159   1.283   1.058  1.00  0.00           C  
+HETATM   11  C10 UNL     1       2.949   0.344   2.228  1.00  0.00           C  
+HETATM   12  O2  UNL     1       1.724  -0.224   2.116  1.00  0.00           O  
+HETATM   13  O3  UNL     1       3.729   0.140   3.131  1.00  0.00           O  
+HETATM   14  C11 UNL     1       4.595   1.282   0.525  1.00  0.00           C  
+HETATM   15  C12 UNL     1      -0.921  -1.453   1.103  1.00  0.00           C  
+HETATM   16  C13 UNL     1      -1.830  -2.068   0.054  1.00  0.00           C  
+HETATM   17  C14 UNL     1      -1.234  -1.879  -1.324  1.00  0.00           C  
+HETATM   18  O4  UNL     1      -2.873  -2.636   0.280  1.00  0.00           O  
+HETATM   19  C15 UNL     1      -0.669  -2.395   2.285  1.00  0.00           C  
+CONECT    1    2    7   17
+CONECT    2    3   15
+CONECT    3    4   12
+CONECT    4    5   10
+CONECT    5    6
+CONECT    6    7    9
+CONECT    7    8    8
+CONECT   10   11   14
+CONECT   11   12   13   13
+CONECT   15   16   19
+CONECT   16   17   18   18
+END

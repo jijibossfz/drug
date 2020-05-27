@@ -1,0 +1,23 @@
+COMPND    2S)-(O-Hydroxyphenyl)lactate
+HETATM    1  C1  UNL     1       0.790   2.670  -0.057  1.00  0.00           C  
+HETATM    2  C2  UNL     1       1.321   1.382  -0.089  1.00  0.00           C  
+HETATM    3  C3  UNL     1       0.463   0.285  -0.182  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.928   0.445  -0.242  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -1.461   1.746  -0.230  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -0.592   2.838  -0.128  1.00  0.00           C  
+HETATM    7  O1  UNL     1      -2.802   1.971  -0.299  1.00  0.00           O  
+HETATM    8  C7  UNL     1      -1.882  -0.732  -0.330  1.00  0.00           C  
+HETATM    9  C8  UNL     1      -1.301  -2.142  -0.234  1.00  0.00           C  
+HETATM   10  C9  UNL     1      -0.725  -2.536   1.119  1.00  0.00           C  
+HETATM   11  O2  UNL     1      -0.495  -3.759   1.254  1.00  0.00           O  
+HETATM   12  O3  UNL     1      -0.555  -1.677   2.012  1.00  0.00           O  
+HETATM   13  O4  UNL     1      -2.312  -3.089  -0.549  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5    8
+CONECT    5    6    7
+CONECT    8    9
+CONECT    9   10   13
+CONECT   10   11   12   12
+END

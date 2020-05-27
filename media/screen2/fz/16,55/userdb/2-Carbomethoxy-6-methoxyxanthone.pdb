@@ -1,0 +1,37 @@
+COMPND    2-Carbomethoxy-6-methoxyxanthone
+HETATM    1  C1  UNL     1      -0.008   3.781  -1.908  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.015   4.146  -0.557  1.00  0.00           C  
+HETATM    3  C3  UNL     1       0.059   3.089   0.367  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.146   1.736   0.014  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.155   1.433  -1.356  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.078   2.450  -2.314  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.243   0.019  -1.789  1.00  0.00           C  
+HETATM    8  C8  UNL     1       0.301  -0.976  -0.691  1.00  0.00           C  
+HETATM    9  C9  UNL     1       0.277  -0.523   0.638  1.00  0.00           C  
+HETATM   10  O1  UNL     1       0.216   0.792   0.998  1.00  0.00           O  
+HETATM   11  C10 UNL     1       0.334  -1.505   1.637  1.00  0.00           C  
+HETATM   12  C11 UNL     1       0.396  -2.868   1.346  1.00  0.00           C  
+HETATM   13  C12 UNL     1       0.404  -3.303   0.016  1.00  0.00           C  
+HETATM   14  C13 UNL     1       0.371  -2.343  -1.001  1.00  0.00           C  
+HETATM   15  C14 UNL     1       0.467  -4.759  -0.346  1.00  0.00           C  
+HETATM   16  O2  UNL     1      -0.197  -5.785   0.271  1.00  0.00           O  
+HETATM   17  C15 UNL     1      -1.171  -5.507   1.248  1.00  0.00           C  
+HETATM   18  O3  UNL     1       1.205  -5.030  -1.290  1.00  0.00           O  
+HETATM   19  O4  UNL     1       0.252  -0.304  -2.974  1.00  0.00           O  
+HETATM   20  O5  UNL     1      -0.107   5.478  -0.236  1.00  0.00           O  
+HETATM   21  C16 UNL     1      -0.170   5.840   1.123  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3   20
+CONECT    3    4
+CONECT    4    5   10
+CONECT    5    6    7
+CONECT    7    8   19   19
+CONECT    8    9   14
+CONECT    9   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14   15
+CONECT   15   16   18   18
+CONECT   16   17
+CONECT   20   21
+END

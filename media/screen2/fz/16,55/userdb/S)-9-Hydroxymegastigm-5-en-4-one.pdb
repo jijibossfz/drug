@@ -1,0 +1,26 @@
+COMPND    S)-9-Hydroxymegastigm-5-en-4-one
+HETATM    1  C1  UNL     1      -1.425  -0.722   1.142  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.291  -0.054   0.077  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.572   1.090  -0.607  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.096   1.224  -0.466  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.635   0.258   0.145  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -0.009  -1.045   0.623  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -0.086  -2.043  -0.551  1.00  0.00           C  
+HETATM    8  C8  UNL     1       0.744  -1.725   1.789  1.00  0.00           C  
+HETATM    9  C9  UNL     1       2.142   0.407   0.292  1.00  0.00           C  
+HETATM   10  C10 UNL     1       2.936  -0.367  -0.771  1.00  0.00           C  
+HETATM   11  C11 UNL     1       4.399   0.062  -0.904  1.00  0.00           C  
+HETATM   12  C12 UNL     1       5.189  -0.016   0.399  1.00  0.00           C  
+HETATM   13  O1  UNL     1       4.459   1.379  -1.402  1.00  0.00           O  
+HETATM   14  C13 UNL     1       0.529   2.474  -1.052  1.00  0.00           C  
+HETATM   15  O2  UNL     1      -2.236   1.900  -1.242  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4   15   15
+CONECT    4    5    5   14
+CONECT    5    6    9
+CONECT    6    7    8
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+END

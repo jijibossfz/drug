@@ -1,0 +1,26 @@
+COMPND    3R,6R,7E)-3-Hydroxy-4,7-megastigmadien-9-one
+HETATM    1  C1  UNL     1       0.659  -2.251   0.140  1.00  0.00           C  
+HETATM    2  C2  UNL     1       2.105  -2.145  -0.337  1.00  0.00           C  
+HETATM    3  C3  UNL     1       2.525  -0.735  -0.643  1.00  0.00           C  
+HETATM    4  C4  UNL     1       1.679   0.306  -0.710  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.195   0.162  -0.454  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -0.308  -1.296  -0.590  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -0.418  -1.658  -2.088  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -1.720  -1.453   0.020  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -0.104   0.770   0.898  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -0.955   1.801   1.077  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -1.231   2.386   2.410  1.00  0.00           C  
+HETATM   12  C12 UNL     1      -2.214   3.542   2.426  1.00  0.00           C  
+HETATM   13  O1  UNL     1      -0.710   1.976   3.441  1.00  0.00           O  
+HETATM   14  C13 UNL     1       2.169   1.704  -1.002  1.00  0.00           C  
+HETATM   15  O2  UNL     1       2.309  -2.951  -1.483  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3   15
+CONECT    3    4    4
+CONECT    4    5   14
+CONECT    5    6    9
+CONECT    6    7    8
+CONECT    9   10   10
+CONECT   10   11
+CONECT   11   12   13   13
+END

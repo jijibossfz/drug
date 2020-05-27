@@ -1,0 +1,36 @@
+COMPND    2,3-Dihydroxymethyl-4-(3',4'-dimethoxyphenyl)-?-butyrolactone
+HETATM    1  C1  UNL     1       3.703   0.815   1.622  1.00  0.00           C  
+HETATM    2  C2  UNL     1       3.424   1.432   0.252  1.00  0.00           C  
+HETATM    3  C3  UNL     1       2.311   0.771  -0.532  1.00  0.00           C  
+HETATM    4  C4  UNL     1       1.110   1.439  -0.779  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.120   0.834  -1.552  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.295  -0.432  -2.126  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.409  -1.189  -1.714  1.00  0.00           C  
+HETATM    8  C8  UNL     1       2.433  -0.534  -1.016  1.00  0.00           C  
+HETATM    9  O1  UNL     1       1.615  -2.451  -2.211  1.00  0.00           O  
+HETATM   10  C9  UNL     1       1.086  -3.468  -1.391  1.00  0.00           C  
+HETATM   11  O2  UNL     1      -0.722  -1.008  -2.842  1.00  0.00           O  
+HETATM   12  C10 UNL     1      -0.582  -0.852  -4.235  1.00  0.00           C  
+HETATM   13  O3  UNL     1       4.646   1.406  -0.444  1.00  0.00           O  
+HETATM   14  C11 UNL     1       5.691   1.310   0.418  1.00  0.00           C  
+HETATM   15  C12 UNL     1       5.157   1.256   1.839  1.00  0.00           C  
+HETATM   16  C13 UNL     1       5.991   0.351   2.740  1.00  0.00           C  
+HETATM   17  O4  UNL     1       5.481   0.375   4.056  1.00  0.00           O  
+HETATM   18  O5  UNL     1       6.857   1.269   0.095  1.00  0.00           O  
+HETATM   19  C14 UNL     1       2.725   1.259   2.704  1.00  0.00           C  
+HETATM   20  O6  UNL     1       1.435   0.771   2.397  1.00  0.00           O  
+CONECT    1    2   15   19
+CONECT    2    3   13
+CONECT    3    4    8
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7   11
+CONECT    7    8    9
+CONECT    9   10
+CONECT   11   12
+CONECT   13   14
+CONECT   14   15   18   18
+CONECT   15   16
+CONECT   16   17
+CONECT   19   20
+END

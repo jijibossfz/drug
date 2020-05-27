@@ -1,0 +1,28 @@
+COMPND    10?-Hydroxy-?-santal-11-ene
+HETATM    1  C1  UNL     1       0.749  -0.260  -3.353  1.00  0.00           C  
+HETATM    2  C2  UNL     1       1.001   0.114  -1.910  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.270  -1.299  -2.378  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.062  -2.130  -1.952  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.965  -0.973  -2.014  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -0.752  -0.507  -3.477  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -0.324   0.155  -1.146  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -1.056   1.505  -1.278  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -0.168  -0.196   0.352  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -1.467  -0.671   1.021  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -1.338  -0.797   2.540  1.00  0.00           C  
+HETATM   12  C12 UNL     1      -1.008   0.498   3.248  1.00  0.00           C  
+HETATM   13  C13 UNL     1       0.197   0.488   4.156  1.00  0.00           C  
+HETATM   14  C14 UNL     1      -1.766   1.595   3.096  1.00  0.00           C  
+HETATM   15  O1  UNL     1      -2.554  -1.292   3.072  1.00  0.00           O  
+HETATM   16  C15 UNL     1       2.159   1.020  -1.563  1.00  0.00           C  
+CONECT    1    2    3    6
+CONECT    2    3    7   16
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6    7
+CONECT    7    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   15
+CONECT   12   13   14   14
+END

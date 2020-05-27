@@ -1,0 +1,34 @@
+COMPND    Haplophytin_A
+HETATM    1  C1  UNL     1      -1.276  -1.270   0.133  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.158  -0.238  -0.191  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.653   1.042  -0.401  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.285   1.263  -0.243  1.00  0.00           C  
+HETATM    5  C5  UNL     1       0.607   0.228   0.080  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.113  -1.096   0.185  1.00  0.00           C  
+HETATM    7  O1  UNL     1       0.888  -2.154   0.583  1.00  0.00           O  
+HETATM    8  C7  UNL     1       1.348  -2.944  -0.491  1.00  0.00           C  
+HETATM    9  C8  UNL     1       2.028   0.576   0.294  1.00  0.00           C  
+HETATM   10  C9  UNL     1       2.409   1.875   0.108  1.00  0.00           C  
+HETATM   11  C10 UNL     1       1.441   2.933  -0.257  1.00  0.00           C  
+HETATM   12  N1  UNL     1       0.163   2.518  -0.393  1.00  0.00           N  
+HETATM   13  O2  UNL     1       1.732   4.106  -0.436  1.00  0.00           O  
+HETATM   14  C11 UNL     1       3.791   2.262   0.369  1.00  0.00           C  
+HETATM   15  C12 UNL     1       4.690   1.280   0.546  1.00  0.00           C  
+HETATM   16  C13 UNL     1       4.296  -0.165   0.355  1.00  0.00           C  
+HETATM   17  O3  UNL     1       2.939  -0.390   0.632  1.00  0.00           O  
+HETATM   18  C14 UNL     1       5.104  -1.061   1.301  1.00  0.00           C  
+HETATM   19  C15 UNL     1       4.575  -0.562  -1.100  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5   12
+CONECT    5    6    9
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10   17
+CONECT   10   11   14
+CONECT   11   12   13   13
+CONECT   14   15   15
+CONECT   15   16
+CONECT   16   17   18   19
+END

@@ -1,0 +1,34 @@
+COMPND    1,6-Dihydroxy-7-methoxyxanthone
+HETATM    1  C1  UNL     1      -1.057   2.625  -0.991  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.270   2.862   0.376  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.190   1.795   1.278  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.988   0.467   0.891  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -0.889   0.232  -0.485  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -0.950   1.291  -1.401  1.00  0.00           C  
+HETATM    7  C7  UNL     1      -0.743  -1.161  -0.968  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -0.763  -2.224   0.072  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -0.851  -1.815   1.419  1.00  0.00           C  
+HETATM   10  O1  UNL     1      -0.920  -0.515   1.832  1.00  0.00           O  
+HETATM   11  C10 UNL     1      -0.854  -2.812   2.401  1.00  0.00           C  
+HETATM   12  C11 UNL     1      -0.782  -4.165   2.075  1.00  0.00           C  
+HETATM   13  C12 UNL     1      -0.713  -4.537   0.736  1.00  0.00           C  
+HETATM   14  C13 UNL     1      -0.698  -3.586  -0.289  1.00  0.00           C  
+HETATM   15  O2  UNL     1      -0.642  -4.034  -1.574  1.00  0.00           O  
+HETATM   16  O3  UNL     1      -0.611  -1.394  -2.166  1.00  0.00           O  
+HETATM   17  O4  UNL     1      -1.487   4.122   0.838  1.00  0.00           O  
+HETATM   18  O5  UNL     1      -1.202   3.631  -1.911  1.00  0.00           O  
+HETATM   19  C14 UNL     1      -0.013   4.342  -2.165  1.00  0.00           C  
+CONECT    1    2    6   18
+CONECT    2    3   17
+CONECT    3    4
+CONECT    4    5   10
+CONECT    5    6    7
+CONECT    7    8   16   16
+CONECT    8    9   14
+CONECT    9   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   18   19
+END

@@ -1,0 +1,17 @@
+COMPND    Crocusatin_E
+HETATM    1  C1  UNL     1      -0.907   0.600  -0.082  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.364  -0.863  -0.223  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.494  -1.770   0.623  1.00  0.00           C  
+HETATM    4  C4  UNL     1       1.001  -1.662   0.387  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.435  -0.329  -0.170  1.00  0.00           C  
+HETATM    6  C6  UNL     1       0.573   0.678  -0.389  1.00  0.00           C  
+HETATM    7  C7  UNL     1       2.907  -0.197  -0.474  1.00  0.00           C  
+HETATM    8  O1  UNL     1      -0.960  -2.545   1.428  1.00  0.00           O  
+HETATM    9  C8  UNL     1      -1.700   1.484  -1.064  1.00  0.00           C  
+HETATM   10  C9  UNL     1      -1.133   1.103   1.357  1.00  0.00           C  
+CONECT    1    2    6    9   10
+CONECT    2    3
+CONECT    3    4    8    8
+CONECT    4    5
+CONECT    5    6    6    7
+END

@@ -1,0 +1,40 @@
+COMPND    4(18),13-Clerodadien-3-oxo-15-oic_acid_methyl_ester
+HETATM    1  C1  UNL     1      -2.083  -0.994   2.630  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -3.450  -0.346   2.546  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -3.621   0.910   1.769  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -2.402   1.722   1.310  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -1.258   0.730   0.949  1.00  0.00           C  
+HETATM    6  C6  UNL     1      -0.906  -0.129   2.175  1.00  0.00           C  
+HETATM    7  C7  UNL     1       0.005   1.239   0.162  1.00  0.00           C  
+HETATM    8  C8  UNL     1      -0.467   2.154  -1.012  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -1.497   3.207  -0.575  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -2.731   2.561   0.057  1.00  0.00           C  
+HETATM   11  C11 UNL     1       0.663   2.882  -1.772  1.00  0.00           C  
+HETATM   12  C12 UNL     1       0.738  -0.003  -0.472  1.00  0.00           C  
+HETATM   13  C13 UNL     1       2.080  -0.465   0.128  1.00  0.00           C  
+HETATM   14  C14 UNL     1       2.719  -1.726  -0.441  1.00  0.00           C  
+HETATM   15  C15 UNL     1       3.959  -2.141   0.323  1.00  0.00           C  
+HETATM   16  C16 UNL     1       2.233  -2.377  -1.522  1.00  0.00           C  
+HETATM   17  C17 UNL     1       2.807  -3.576  -2.191  1.00  0.00           C  
+HETATM   18  O1  UNL     1       2.065  -4.242  -3.128  1.00  0.00           O  
+HETATM   19  C18 UNL     1       2.744  -5.160  -3.953  1.00  0.00           C  
+HETATM   20  O2  UNL     1       3.983  -3.878  -2.022  1.00  0.00           O  
+HETATM   21  C19 UNL     1       0.975   2.028   1.069  1.00  0.00           C  
+HETATM   22  C20 UNL     1      -2.123   2.668   2.499  1.00  0.00           C  
+HETATM   23  C21 UNL     1      -4.893   1.318   1.563  1.00  0.00           C  
+HETATM   24  O3  UNL     1      -4.389  -0.900   3.108  1.00  0.00           O  
+CONECT    1    2    6
+CONECT    2    3   24   24
+CONECT    3    4   23   23
+CONECT    4    5   10   22
+CONECT    5    6    7
+CONECT    7    8   12   21
+CONECT    8    9   11
+CONECT    9   10
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   16   16
+CONECT   16   17
+CONECT   17   18   20   20
+CONECT   18   19
+END

@@ -1,0 +1,28 @@
+COMPND    3-Carboxy-1,1-dimethyl-6,7-dihydroxy-1,2,3,4-tetrahydroisoquinoline
+HETATM    1  C1  UNL     1      -0.582  -0.929   0.557  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.245   0.200   0.487  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.379   0.298  -0.526  1.00  0.00           C  
+HETATM    4  N1  UNL     1       1.536  -0.934  -1.315  1.00  0.00           N  
+HETATM    5  C4  UNL     1       0.312  -1.646  -1.674  1.00  0.00           C  
+HETATM    6  C5  UNL     1      -0.391  -2.086  -0.387  1.00  0.00           C  
+HETATM    7  C6  UNL     1      -0.512  -0.867  -2.685  1.00  0.00           C  
+HETATM    8  O1  UNL     1      -0.221  -0.671  -3.841  1.00  0.00           O  
+HETATM    9  O2  UNL     1      -1.653  -0.379  -2.166  1.00  0.00           O  
+HETATM   10  C7  UNL     1       2.723   0.506   0.208  1.00  0.00           C  
+HETATM   11  C8  UNL     1       1.153   1.505  -1.461  1.00  0.00           C  
+HETATM   12  C9  UNL     1      -0.011   1.250   1.377  1.00  0.00           C  
+HETATM   13  C10 UNL     1      -1.036   1.205   2.326  1.00  0.00           C  
+HETATM   14  C11 UNL     1      -1.846   0.069   2.397  1.00  0.00           C  
+HETATM   15  C12 UNL     1      -1.607  -0.979   1.507  1.00  0.00           C  
+HETATM   16  O3  UNL     1      -2.843   0.020   3.318  1.00  0.00           O  
+HETATM   17  O4  UNL     1      -1.254   2.245   3.172  1.00  0.00           O  
+CONECT    1    2    6   15
+CONECT    2    3   12
+CONECT    3    4   10   11
+CONECT    4    5
+CONECT    5    6    7
+CONECT    7    8    8    9
+CONECT   12   13
+CONECT   13   14   17
+CONECT   14   15   16
+END

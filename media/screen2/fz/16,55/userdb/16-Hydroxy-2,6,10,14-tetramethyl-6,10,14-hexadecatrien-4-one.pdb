@@ -1,0 +1,40 @@
+COMPND    16-Hydroxy-2,6,10,14-tetramethyl-6,10,14-hexadecatrien-4-one
+HETATM    1  C1  UNL     1      -2.717  -6.012  -2.587  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -1.220  -5.835  -2.268  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.804  -4.367  -2.480  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.693  -4.083  -2.447  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.149  -2.676  -2.809  1.00  0.00           C  
+HETATM    6  C6  UNL     1       1.447  -1.811  -1.603  1.00  0.00           C  
+HETATM    7  C7  UNL     1       2.660  -1.251  -1.439  1.00  0.00           C  
+HETATM    8  C8  UNL     1       3.068  -0.342  -0.304  1.00  0.00           C  
+HETATM    9  C9  UNL     1       4.594  -0.192  -0.186  1.00  0.00           C  
+HETATM   10  C10 UNL     1       5.001   0.804   0.885  1.00  0.00           C  
+HETATM   11  C11 UNL     1       5.636   1.947   0.565  1.00  0.00           C  
+HETATM   12  C12 UNL     1       6.080   3.005   1.546  1.00  0.00           C  
+HETATM   13  C13 UNL     1       6.560   4.291   0.853  1.00  0.00           C  
+HETATM   14  C14 UNL     1       7.049   5.326   1.851  1.00  0.00           C  
+HETATM   15  C15 UNL     1       8.369   5.525   2.029  1.00  0.00           C  
+HETATM   16  C16 UNL     1       9.045   6.485   2.973  1.00  0.00           C  
+HETATM   17  O1  UNL     1       9.923   7.346   2.258  1.00  0.00           O  
+HETATM   18  C17 UNL     1       5.958   6.054   2.600  1.00  0.00           C  
+HETATM   19  C18 UNL     1       4.651   0.425   2.305  1.00  0.00           C  
+HETATM   20  C19 UNL     1       0.298  -1.598  -0.646  1.00  0.00           C  
+HETATM   21  O2  UNL     1       1.510  -4.938  -2.194  1.00  0.00           O  
+HETATM   22  C20 UNL     1      -0.942  -6.323  -0.836  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3   22
+CONECT    3    4
+CONECT    4    5   21   21
+CONECT    5    6
+CONECT    6    7    7   20
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   11   19
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15   15   18
+CONECT   15   16
+CONECT   16   17
+END

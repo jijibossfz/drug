@@ -1,0 +1,45 @@
+COMPND    2,6-Dimethoxy-4-(2-hydroxyethyl)phenol_1-O-?-D-glucopyra-noside
+HETATM    1  C1  UNL     1      -3.438  -1.680  -0.958  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.438  -2.723  -0.492  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -1.828  -2.282   0.821  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -1.256  -0.893   0.712  1.00  0.00           C  
+HETATM    5  O1  UNL     1      -2.202   0.034   0.235  1.00  0.00           O  
+HETATM    6  C5  UNL     1      -2.798  -0.296  -0.990  1.00  0.00           C  
+HETATM    7  C6  UNL     1      -3.798   0.813  -1.291  1.00  0.00           C  
+HETATM    8  O2  UNL     1      -4.476   0.556  -2.502  1.00  0.00           O  
+HETATM    9  O3  UNL     1      -0.149  -0.910  -0.160  1.00  0.00           O  
+HETATM   10  C7  UNL     1       0.864  -0.048   0.174  1.00  0.00           C  
+HETATM   11  C8  UNL     1       1.754  -0.416   1.125  1.00  0.00           C  
+HETATM   12  C9  UNL     1       2.733   0.455   1.435  1.00  0.00           C  
+HETATM   13  C10 UNL     1       2.885   1.637   0.815  1.00  0.00           C  
+HETATM   14  C11 UNL     1       2.024   1.925  -0.172  1.00  0.00           C  
+HETATM   15  C12 UNL     1       1.049   1.079  -0.547  1.00  0.00           C  
+HETATM   16  O4  UNL     1       0.164   1.448  -1.531  1.00  0.00           O  
+HETATM   17  C13 UNL     1       0.477   0.919  -2.800  1.00  0.00           C  
+HETATM   18  C14 UNL     1       3.995   2.573   1.252  1.00  0.00           C  
+HETATM   19  C15 UNL     1       4.019   3.955   0.605  1.00  0.00           C  
+HETATM   20  O5  UNL     1       5.071   4.716   1.166  1.00  0.00           O  
+HETATM   21  O6  UNL     1       1.553  -1.620   1.763  1.00  0.00           O  
+HETATM   22  C16 UNL     1       2.273  -1.905   2.938  1.00  0.00           C  
+HETATM   23  O7  UNL     1      -0.790  -3.169   1.173  1.00  0.00           O  
+HETATM   24  O8  UNL     1      -3.060  -3.968  -0.283  1.00  0.00           O  
+HETATM   25  O9  UNL     1      -3.865  -2.018  -2.259  1.00  0.00           O  
+CONECT    1    2    6   25
+CONECT    2    3   24
+CONECT    3    4   23
+CONECT    4    5    9
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    9   10
+CONECT   10   11   15
+CONECT   11   12   21
+CONECT   12   13
+CONECT   13   14   18
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   18   19
+CONECT   19   20
+CONECT   21   22
+END

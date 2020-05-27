@@ -1,0 +1,36 @@
+COMPND    4-Hydroxybenzyl-O-?-D-glucopyranoside
+HETATM    1  O1  UNL     1       0.303   0.214  -0.048  1.00  0.00           O  
+HETATM    2  C1  UNL     1       1.053  -0.511   0.902  1.00  0.00           C  
+HETATM    3  O2  UNL     1       2.369  -0.598   0.400  1.00  0.00           O  
+HETATM    4  C2  UNL     1       3.215  -1.353   1.230  1.00  0.00           C  
+HETATM    5  C3  UNL     1       2.692  -2.781   1.334  1.00  0.00           C  
+HETATM    6  C4  UNL     1       1.280  -2.768   1.883  1.00  0.00           C  
+HETATM    7  C5  UNL     1       0.437  -1.889   0.989  1.00  0.00           C  
+HETATM    8  O3  UNL     1      -0.857  -1.789   1.528  1.00  0.00           O  
+HETATM    9  O4  UNL     1       0.765  -4.075   1.888  1.00  0.00           O  
+HETATM   10  O5  UNL     1       3.481  -3.553   2.205  1.00  0.00           O  
+HETATM   11  C6  UNL     1       4.623  -1.309   0.654  1.00  0.00           C  
+HETATM   12  O6  UNL     1       5.138   0.004   0.750  1.00  0.00           O  
+HETATM   13  C7  UNL     1       0.616   1.593  -0.103  1.00  0.00           C  
+HETATM   14  C8  UNL     1      -0.308   2.288  -1.080  1.00  0.00           C  
+HETATM   15  C9  UNL     1      -1.016   3.440  -0.725  1.00  0.00           C  
+HETATM   16  C10 UNL     1      -1.879   4.058  -1.633  1.00  0.00           C  
+HETATM   17  C11 UNL     1      -2.067   3.548  -2.921  1.00  0.00           C  
+HETATM   18  C12 UNL     1      -1.355   2.397  -3.272  1.00  0.00           C  
+HETATM   19  C13 UNL     1      -0.487   1.778  -2.370  1.00  0.00           C  
+HETATM   20  O7  UNL     1      -2.912   4.140  -3.805  1.00  0.00           O  
+CONECT    1    2   13
+CONECT    2    3    7
+CONECT    3    4
+CONECT    4    5   11
+CONECT    5    6   10
+CONECT    6    7    9
+CONECT    7    8
+CONECT   11   12
+CONECT   13   14
+CONECT   14   15   19
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18   20
+CONECT   18   19
+END

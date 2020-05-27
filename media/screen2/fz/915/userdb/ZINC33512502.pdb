@@ -1,0 +1,39 @@
+COMPND    ZINC33512502
+HETATM    1  C1  UNL     1       8.767   0.655   5.855  1.00  0.00           C  
+HETATM    2  C2  UNL     1       7.958   0.263   4.646  1.00  0.00           C  
+HETATM    3  C3  UNL     1       6.824   0.980   4.312  1.00  0.00           C  
+HETATM    4  C4  UNL     1       6.081   0.623   3.204  1.00  0.00           C  
+HETATM    5  C5  UNL     1       6.474  -0.457   2.424  1.00  0.00           C  
+HETATM    6  C6  UNL     1       7.611  -1.179   2.765  1.00  0.00           C  
+HETATM    7  C7  UNL     1       8.353  -0.813   3.871  1.00  0.00           C  
+HETATM    8  C8  UNL     1       8.037  -2.355   1.926  1.00  0.00           C  
+HETATM    9  N1  UNL     1       5.723  -0.821   1.301  1.00  0.00           N  
+HETATM   10  C9  UNL     1       4.395  -1.018   1.413  1.00  0.00           C  
+HETATM   11  O1  UNL     1       3.863  -0.964   2.502  1.00  0.00           O  
+HETATM   12  C10 UNL     1       3.569  -1.304   0.185  1.00  0.00           C  
+HETATM   13  C11 UNL     1       3.689  -0.135  -0.794  1.00  0.00           C  
+HETATM   14  N2  UNL     1       2.166  -1.478   0.569  1.00  0.00           N  
+HETATM   15  C12 UNL     1       1.538  -2.656   0.307  1.00  0.00           C  
+HETATM   16  C13 UNL     1       0.238  -2.838   0.654  1.00  0.00           C  
+HETATM   17  C14 UNL     1      -0.468  -1.802   1.291  1.00  0.00           C  
+HETATM   18  C15 UNL     1       0.168  -0.624   1.551  1.00  0.00           C  
+HETATM   19  C16 UNL     1       1.513  -0.470   1.178  1.00  0.00           C  
+HETATM   20  O2  UNL     1       2.092   0.581   1.405  1.00  0.00           O  
+HETATM   21  N3  UNL     1      -0.400  -4.058   0.378  1.00  0.00           N  
+HETATM   22  C17 UNL     1       4.845   1.405   2.840  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    7    7
+CONECT    3    4    4
+CONECT    4    5   22
+CONECT    5    6    6    9
+CONECT    6    7    8
+CONECT    9   10
+CONECT   10   11   11   12
+CONECT   12   13   14
+CONECT   14   15   19
+CONECT   15   16   16
+CONECT   16   17   21
+CONECT   17   18   18
+CONECT   18   19
+CONECT   19   20   20
+END

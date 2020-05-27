@@ -1,0 +1,39 @@
+COMPND    N-Isobutyl-2E,4E,12Z-tetradecatrien-8,10-diynamide
+HETATM    1  C1  UNL     1      -1.903  -6.029   3.541  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.694  -5.717   4.439  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.610  -4.213   4.762  1.00  0.00           C  
+HETATM    4  N1  UNL     1      -0.382  -3.438   3.539  1.00  0.00           N  
+HETATM    5  C4  UNL     1      -1.198  -2.419   3.137  1.00  0.00           C  
+HETATM    6  C5  UNL     1      -0.736  -1.796   1.839  1.00  0.00           C  
+HETATM    7  C6  UNL     1      -0.774  -0.455   1.650  1.00  0.00           C  
+HETATM    8  C7  UNL     1      -0.312   0.173   0.371  1.00  0.00           C  
+HETATM    9  C8  UNL     1      -0.526   1.643   0.105  1.00  0.00           C  
+HETATM   10  C9  UNL     1      -0.056   2.327  -1.153  1.00  0.00           C  
+HETATM   11  C10 UNL     1       0.686   3.633  -0.840  1.00  0.00           C  
+HETATM   12  C11 UNL     1       1.164   4.274  -2.079  1.00  0.00           C  
+HETATM   13  C12 UNL     1       1.565   4.787  -3.102  1.00  0.00           C  
+HETATM   14  C13 UNL     1       2.048   5.395  -4.326  1.00  0.00           C  
+HETATM   15  C14 UNL     1       2.457   5.901  -5.350  1.00  0.00           C  
+HETATM   16  C15 UNL     1       2.961   6.516  -6.592  1.00  0.00           C  
+HETATM   17  C16 UNL     1       2.308   6.432  -7.761  1.00  0.00           C  
+HETATM   18  C17 UNL     1       1.000   5.718  -7.975  1.00  0.00           C  
+HETATM   19  O1  UNL     1      -2.270  -2.041   3.792  1.00  0.00           O  
+HETATM   20  C18 UNL     1      -0.766  -6.544   5.734  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3   20
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6   19   19
+CONECT    6    7    7
+CONECT    7    8
+CONECT    8    9    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13   13   13
+CONECT   13   14
+CONECT   14   15   15   15
+CONECT   15   16
+CONECT   16   17   17
+CONECT   17   18
+END

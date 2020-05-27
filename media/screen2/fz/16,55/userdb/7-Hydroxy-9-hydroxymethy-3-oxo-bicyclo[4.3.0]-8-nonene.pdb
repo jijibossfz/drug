@@ -1,0 +1,23 @@
+COMPND    7-Hydroxy-9-hydroxymethy-3-oxo-bicyclo[4.3.0]-8-nonene
+HETATM    1  C1  UNL     1      -0.116   0.846  -0.710  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -0.132  -0.698  -0.750  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.025  -1.317   0.033  1.00  0.00           C  
+HETATM    4  O1  UNL     1       2.253  -0.735  -0.322  1.00  0.00           O  
+HETATM    5  C4  UNL     1       2.299   0.627   0.023  1.00  0.00           C  
+HETATM    6  C5  UNL     1       1.301   1.415  -0.817  1.00  0.00           C  
+HETATM    7  C6  UNL     1      -1.446  -0.985  -0.066  1.00  0.00           C  
+HETATM    8  C7  UNL     1      -1.857   0.064   0.658  1.00  0.00           C  
+HETATM    9  C8  UNL     1      -0.908   1.230   0.559  1.00  0.00           C  
+HETATM   10  C9  UNL     1      -1.632   2.576   0.457  1.00  0.00           C  
+HETATM   11  C10 UNL     1      -2.124  -2.320  -0.136  1.00  0.00           C  
+HETATM   12  O2  UNL     1      -1.420  -3.288   0.629  1.00  0.00           O  
+CONECT    1    2    6    9
+CONECT    2    3    7
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    7    8    8   11
+CONECT    8    9
+CONECT    9   10
+CONECT   11   12
+END

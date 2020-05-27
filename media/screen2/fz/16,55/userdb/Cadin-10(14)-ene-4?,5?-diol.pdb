@@ -1,0 +1,29 @@
+COMPND    Cadin-10(14)-ene-4?,5?-diol
+HETATM    1  C1  UNL     1       2.080   0.432  -2.179  1.00  0.00           C  
+HETATM    2  C2  UNL     1       1.098   1.545  -1.810  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -0.185   0.942  -1.246  1.00  0.00           C  
+HETATM    4  C4  UNL     1       0.063   0.018  -0.042  1.00  0.00           C  
+HETATM    5  C5  UNL     1       1.046  -1.115  -0.421  1.00  0.00           C  
+HETATM    6  C6  UNL     1       2.343  -0.523  -1.006  1.00  0.00           C  
+HETATM    7  C7  UNL     1       1.263  -2.034   0.769  1.00  0.00           C  
+HETATM    8  C8  UNL     1       0.021  -2.448   1.522  1.00  0.00           C  
+HETATM    9  C9  UNL     1      -1.250  -1.986   0.805  1.00  0.00           C  
+HETATM   10  C10 UNL     1      -1.266  -0.456   0.611  1.00  0.00           C  
+HETATM   11  C11 UNL     1      -1.619   0.334   1.904  1.00  0.00           C  
+HETATM   12  C12 UNL     1      -1.714   1.855   1.662  1.00  0.00           C  
+HETATM   13  C13 UNL     1      -2.948  -0.117   2.542  1.00  0.00           C  
+HETATM   14  C14 UNL     1       2.457  -2.503   1.166  1.00  0.00           C  
+HETATM   15  O1  UNL     1      -0.848   0.226  -2.264  1.00  0.00           O  
+HETATM   16  O2  UNL     1       1.685   2.350  -0.819  1.00  0.00           O  
+HETATM   17  C15 UNL     1       0.831   2.455  -3.012  1.00  0.00           C  
+CONECT    1    2    6
+CONECT    2    3   16   17
+CONECT    3    4   15
+CONECT    4    5   10
+CONECT    5    6    7
+CONECT    7    8   14   14
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12   13
+END
